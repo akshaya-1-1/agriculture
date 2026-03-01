@@ -1,0 +1,1982 @@
+state,district,year,annual_rainfall
+Andhra Pradesh,Adilabad,2012,1048.8
+Andhra Pradesh,Anantapur,2012,536
+Andhra Pradesh,Chittoor,2012,1002.5
+Andhra Pradesh,Cuddapah,2012,558.2
+Andhra Pradesh,East Godavari,2012,1445.3
+Andhra Pradesh,Guntur,2012,1012.7
+Andhra Pradesh,Hyderabad,2012,778.8
+Andhra Pradesh,Karimnagar,2012,1046.5
+Andhra Pradesh,Khammam,2012,1521.1
+Andhra Pradesh,Krishna,2012,1509.6
+Andhra Pradesh,Kurnool,2012,609.3
+Andhra Pradesh,Mahbubnagar,2012,632.7
+Andhra Pradesh,Medak,2012,843
+Andhra Pradesh,Nalgonda,2012,673.9
+Andhra Pradesh,Nellore,2012,911
+Andhra Pradesh,Nizamabad,2012,845.4
+Andhra Pradesh,Prakasam,2012,886.4
+Andhra Pradesh,Rangareddy,2012,788.9
+Andhra Pradesh,Srikakulam,2012,1289.2
+Andhra Pradesh,Visakhapatnam,2012,1217.9
+Andhra Pradesh,Vizianagaram,2012,1296.9
+Andhra Pradesh,Warangal,2012,1231.9
+Andhra Pradesh,West Godavari,2012,1611.9
+Andhra Pradesh,Adilabad,2013,1607.7
+Andhra Pradesh,Anantapur,2013,501.7
+Andhra Pradesh,Chittoor,2013,856
+Andhra Pradesh,Cuddapah,2013,689.2
+Andhra Pradesh,East Godavari,2013,1120.2
+Andhra Pradesh,Guntur,2013,1161.5
+Andhra Pradesh,Hyderabad,2013,1088.9
+Andhra Pradesh,Karimnagar,2013,1427.7
+Andhra Pradesh,Khammam,2013,1503.2
+Andhra Pradesh,Krishna,2013,1317.3
+Andhra Pradesh,Kurnool,2013,703.4
+Andhra Pradesh,Mahbubnagar,2013,910.8
+Andhra Pradesh,Medak,2013,1068.1
+Andhra Pradesh,Nalgonda,2013,1146.3
+Andhra Pradesh,Nellore,2013,871.8
+Andhra Pradesh,Nizamabad,2013,1341
+Andhra Pradesh,Prakasam,2013,986.2
+Andhra Pradesh,Rangareddy,2013,971.8
+Andhra Pradesh,Srikakulam,2013,1421.9
+Andhra Pradesh,Visakhapatanam,2013,1082.5
+Andhra Pradesh,Vizianagaram,2013,1028.3
+Andhra Pradesh,Warangal,2013,1366.5
+Andhra Pradesh,West Godavari,2013,1006.1
+Andhra Pradesh,Anantapur,2014,437.8
+Andhra Pradesh,Chittoor,2014,600.4
+Andhra Pradesh,Cuddapah,2014,432.6
+Andhra Pradesh,East Godavari,2014,635.7
+Andhra Pradesh,Guntur,2014,681.4
+Andhra Pradesh,Krishna,2014,622.9
+Andhra Pradesh,Kurnool,2014,628.9
+Andhra Pradesh,Nellore,2014,705.3
+Andhra Pradesh,Prakasam,2014,497.1
+Andhra Pradesh,Srikakulam,2014,1274.3
+Andhra Pradesh,Vishakhapatanam,2014,1092.6
+Andhra Pradesh,Vizianagaram,2014,1204.4
+Andhra Pradesh,West Godavari,2014,861.1
+Andhra Pradesh,ANANTAPUR ,2015,709
+Andhra Pradesh,CHITTOOR ,2015,1419
+Andhra Pradesh,CUDDAPAH ,2015,1012.8
+Andhra Pradesh,EAST GODAVARI ,2015,1099
+Andhra Pradesh,GUNTUR ,2015,713.6
+Andhra Pradesh,KRISHNA ,2015,944.8
+Andhra Pradesh,KURNOOL ,2015,470.4
+Andhra Pradesh,NELLORE ,2015,1385.3
+Andhra Pradesh,PRAKASAM ,2015,634
+Andhra Pradesh,SRIKAKULAM ,2015,952.4
+Andhra Pradesh,Vishakhapatanam,2015,1210.3
+Andhra Pradesh,VIZIANAGARAM,2015,1072.3
+Andhra Pradesh,WEST GODAVARI,2015,1054
+Andhra Pradesh,ANANTAPUR,2016,394.2
+Andhra Pradesh,CHITTOOR,2016,663.9
+Andhra Pradesh,CUDDAPAH,2016,590.8
+Andhra Pradesh,EAST GODAVARI,2016,1091.4
+Andhra Pradesh,GUNTUR,2016,965.3
+Andhra Pradesh,KRISHNA,2016,1016.9
+Andhra Pradesh,KURNOOL,2016,606.2
+Andhra Pradesh,NELLORE,2016,593.9
+Andhra Pradesh,PRAKASAM,2016,549.4
+Andhra Pradesh,SRIKAKULAM,2016,1099.7
+Andhra Pradesh,Vishakhapatanam,2016,1119.2
+Andhra Pradesh,VIZIANAGARAM,2016,1151.2
+Andhra Pradesh,WEST GODAVARI,2016,1148.7
+Andhra Pradesh,ANANTAPUR,2017,661.2
+Andhra Pradesh,CHITTOOR,2017,1139
+Andhra Pradesh,CUDDAPAH,2017,854.2
+Andhra Pradesh,EAST GODAVARI,2017,962.8
+Andhra Pradesh,GUNTUR,2017,791.6
+Andhra Pradesh,KRISHNA,2017,867.7
+Andhra Pradesh,KURNOOL,2017,743.8
+Andhra Pradesh,NELLORE,2017,976.1
+Andhra Pradesh,PRAKASAM,2017,615.1
+Andhra Pradesh,SRIKAKULAM,2017,1250.5
+Andhra Pradesh,Vishakhapatanam,2017,941.1
+Andhra Pradesh,VIZIANAGARAM,2017,1080.7
+Andhra Pradesh,WEST GODAVARI,2017,965
+Andhra Pradesh,ANANTAPUR,2018,390.8
+Andhra Pradesh,CHITTOOR,2018,595.6
+Andhra Pradesh,CUDDAPAH,2018,376.7
+Andhra Pradesh,EAST GODAVARI,2018,1136.5
+Andhra Pradesh,GUNTUR,2018,659.7
+Andhra Pradesh,KRISHNA,2018,950.9
+Andhra Pradesh,KURNOOL,2018,375.3
+Andhra Pradesh,NELLORE,2018,527.8
+Andhra Pradesh,PRAKASAM,2018,441.7
+Andhra Pradesh,SRIKAKULAM,2018,1310.8
+Andhra Pradesh,Vishakhapatanam,2018,1026
+Andhra Pradesh,VIZIANAGARAM,2018,1048.8
+Andhra Pradesh,WEST GODAVARI,2018,1121.4
+Andhra Pradesh,ANANTAPUR,2019,661.8
+Andhra Pradesh,CHITTOOR,2019,939.3
+Andhra Pradesh,CUDDAPAH,2019,677.9
+Andhra Pradesh,EAST GODAVARI,2019,1192.9
+Andhra Pradesh,GUNTUR,2019,939
+Andhra Pradesh,KRISHNA,2019,997.2
+Andhra Pradesh,KURNOOL,2019,724.1
+Andhra Pradesh,NELLORE,2019,1003.3
+Andhra Pradesh,PRAKASAM,2019,726
+Andhra Pradesh,SRIKAKULAM,2019,1336.4
+Andhra Pradesh,Vishakhapatanam,2019,1085.9
+Andhra Pradesh,VIZIANAGARAM,2019,1236.3
+Andhra Pradesh,WEST GODAVARI,2019,1003.2
+Andhra Pradesh,East Godavari,2020,1464.7
+Andhra Pradesh,Guntur,2020,1211.7
+Andhra Pradesh,Krishna,2020,1360.1
+Andhra Pradesh,Nellore,2020,1479.9
+Andhra Pradesh,Prakasam,2020,960.7
+Andhra Pradesh,Srikakulam,2020,1054.1
+Andhra Pradesh,Visakhapatnam,2020,1174.5
+Andhra Pradesh,Vizianagaram,2020,1191.6
+Andhra Pradesh,West Godavari,2020,1552.2
+Andhra Pradesh,Yanam,2020,1937.4
+Andhra Pradesh,Anantapur,2020,880.3
+Andhra Pradesh,Chittoor,2020,1420.1
+Andhra Pradesh,Cuddapah,2020,1378.5
+Andhra Pradesh,Kurnool,2020,1084
+Andhra Pradesh,EAST GODAVARI,2021,1243.5
+Andhra Pradesh,GUNTUR,2021,1034.3
+Andhra Pradesh,KRISHNA,2021,1176.8
+Andhra Pradesh,PRAKASAM,2021,832.4
+Andhra Pradesh,SPSR NELLORE,2021,1422.2
+Andhra Pradesh,SRIKAKULAM,2021,1374.2
+Andhra Pradesh,Vishakhapatanam,2021,1263.6
+Andhra Pradesh,VIZIANAGARAM,2021,1371.1
+Andhra Pradesh,WEST GODAVARI,2021,1258
+Andhra Pradesh,YANAM,2021,1404.6
+Andhra Pradesh,ANANTAPUR,2021,966.6
+Andhra Pradesh,CHITTOOR,2021,1471.9
+Andhra Pradesh,KURNOOL,2021,751
+Andhra Pradesh,YSR DISTRICT,2021,1328.9
+Andhra Pradesh,East Godavari,2022,1328.5
+Andhra Pradesh,Guntur,2022,983.6
+Andhra Pradesh,Krishna,2022,992.9
+Andhra Pradesh,Prakasam,2022,877.9
+Andhra Pradesh,SPSR Nellore,2022,1163.6
+Andhra Pradesh,Srikakulam,2022,1185.3
+Andhra Pradesh,Visakhapatnam,2022,1180.9
+Andhra Pradesh,Vizianagaram,2022,1336.7
+Andhra Pradesh,West Godavari,2022,1425.2
+Andhra Pradesh,Yanam,2022,1559.4
+Andhra Pradesh,Anantapuramu,2022,923.8
+Andhra Pradesh,Chittoor,2022,1115.3
+Andhra Pradesh,Kurnool,2022,759.1
+Andhra Pradesh,YSR District,2022,871.7
+Andhra Pradesh,Anakapalli,2023,1203.4
+Andhra Pradesh,Bapatla,2023,1160.7
+Andhra Pradesh,Dr B R Ambedkar Konaseema,2023,1481.6
+Andhra Pradesh,Eluru,2023,1123.9
+Andhra Pradesh,Guntur,2023,982.3
+Andhra Pradesh,Kakinada,2023,1043.1
+Andhra Pradesh,Krishna,2023,1508.4
+Andhra Pradesh,NTR District,2023,913.9
+Andhra Pradesh,Palnadu,2023,858.4
+Andhra Pradesh,Parvathipuram Manyam,2023,1315
+Andhra Pradesh,Prakasam,2023,638.5
+Andhra Pradesh,SPSR Nellore,2023,909
+Andhra Pradesh,Sri Alluri Sitharama Raju,2023,1364.5
+Andhra Pradesh,Srikakulam,2023,931.5
+Andhra Pradesh,Visakhapatnam,2023,971.7
+Andhra Pradesh,Vizianagaram,2023,1094.2
+Andhra Pradesh,West Godavari,2023,1110.4
+Andhra Pradesh,Yanam,2023,1046.4
+Andhra Pradesh,Anantapuramu,2023,385.8
+Andhra Pradesh,Annamayya,2023,626.3
+Andhra Pradesh,Chittoor,2023,999.9
+Andhra Pradesh,Kurnool,2023,490.4
+Andhra Pradesh,Nandyal,2023,604.3
+Andhra Pradesh,Sri Sathyasai,2023,498.1
+Andhra Pradesh,Tirupati,2023,1265.9
+Andhra Pradesh,YSR District,2023,619.3
+Karnataka,Bagalkot,2012,390.2
+Karnataka,Bangalore Rural,2012,650.5
+Karnataka,Bengaluru Urban,2012,552.4
+Karnataka,Belgaum,2012,561
+Karnataka,Bellary,2012,544.7
+Karnataka,Bidar,2012,762.5
+Karnataka,Bijapur,2012,427.9
+Karnataka,Chamarajanagar,2012,529.5
+Karnataka,Chikballapur,2012,628.1
+Karnataka,Chikmagalur,2012,1609.2
+Karnataka,Chitradurga,2012,575.6
+Karnataka,Dakshin Kannad,2012,3374.8
+Karnataka,Davangere,2012,588.8
+Karnataka,Dharwad,2012,474.1
+Karnataka,Gadag,2012,491.3
+Karnataka,Gulbarga,2012,667.7
+Karnataka,Hassan,2012,658.4
+Karnataka,Haveri,2012,617.5
+Karnataka,Kodagu,2012,1807.7
+Karnataka,Kolar,2012,717.8
+Karnataka,Koppal,2012,454.1
+Karnataka,Mandya,2012,514
+Karnataka,Mysore,2012,526.5
+Karnataka,Raichur,2012,411.9
+Karnataka,Ramanagara,2012,540.1
+Karnataka,Shimoga,2012,1913
+Karnataka,Tumkur,2012,559.9
+Karnataka,Udupi,2012,4452.4
+Karnataka,Uttar Kannad,2012,3034.9
+Karnataka,Yadgir,2012,535
+Karnataka,Bagalkot,2013,514.6
+Karnataka,Bangalore Rural,2013,872.8
+Karnataka,Bengaluru Urban,2013,797
+Karnataka,Belgaum,2013,774.1
+Karnataka,Bellary,2013,604.2
+Karnataka,Bidar,2013,988.8
+Karnataka,Bijapur,2013,612.7
+Karnataka,Chamarajanagar,2013,678.9
+Karnataka,Chikballapur,2013,619.5
+Karnataka,Chikmagalur,2013,2201.1
+Karnataka,Chitradurga,2013,583.8
+Karnataka,Dakshin Kannad,2013,4284.6
+Karnataka,Davangere,2013,816.5
+Karnataka,Dharwad,2013,686.3
+Karnataka,Gadag,2013,542.5
+Karnataka,Gulbarga,2013,838.9
+Karnataka,Hassan,2013,995.8
+Karnataka,Haveri,2013,778.1
+Karnataka,Kodagu,2013,3031.3
+Karnataka,Kolar,2013,663.8
+Karnataka,Koppal,2013,658.6
+Karnataka,Mandya,2013,609.3
+Karnataka,Mysore,2013,730
+Karnataka,Raichur,2013,757.1
+Karnataka,Ramanagara,2013,799
+Karnataka,Shimoga,2013,2756.4
+Karnataka,Tumkur,2013,654.2
+Karnataka,Udupi,2013,4852.5
+Karnataka,Uttar Kannad,2013,3649.2
+Karnataka,Yadgir,2013,764.1
+Karnataka,Bagalkot,2014,592.6
+Karnataka,Bangalore Rural,2014,946.1
+Karnataka,Bengaluru Urban,2014,854.7
+Karnataka,Belgaum,2014,976.8
+Karnataka,Bellary,2014,795.5
+Karnataka,Bidar,2014,643.1
+Karnataka,Bijapur,2014,596.3
+Karnataka,Chamarajanagar,2014,706.7
+Karnataka,Chikballapur,2014,533.7
+Karnataka,Chikmagalur,2014,2131.1
+Karnataka,Chitradurga,2014,856.3
+Karnataka,Dakshin Kannad,2014,3704.1
+Karnataka,Davangere,2014,978.4
+Karnataka,Dharwad,2014,909.6
+Karnataka,Gadag,2014,774.2
+Karnataka,Gulbarga,2014,735.6
+Karnataka,Hassan,2014,1049.9
+Karnataka,Haveri,2014,1077.4
+Karnataka,Kodagu,2014,2630
+Karnataka,Kolar,2014,518
+Karnataka,Koppal,2014,756
+Karnataka,Mandya,2014,787
+Karnataka,Mysore,2014,880.1
+Karnataka,Raichur,2014,651.5
+Karnataka,Ramanagara,2014,810.3
+Karnataka,Shimoga,2014,2977.9
+Karnataka,Tumkur,2014,703.8
+Karnataka,Udupi,2014,4159
+Karnataka,Uttar Kannad,2014,3289.8
+Karnataka,Yadgir,2014,558.6
+Karnataka,Bagalkot,2015,465.3
+Karnataka,Bangalore Rural,2015,1102.2
+Karnataka,Bengaluru Urban,2015,1074.8
+Karnataka,Belgaum,2015,580.3
+Karnataka,Bellary,2015,597.6
+Karnataka,Bidar,2015,659.7
+Karnataka,Bijapur,2015,456.1
+Karnataka,Chamarajanagar,2015,915.4
+Karnataka,Chikballapur,2015,1115.7
+Karnataka,Chikmagalur,2015,1692.1
+Karnataka,Chitradurga,2015,690.3
+Karnataka,Dakshin Kannad,2015,3289.3
+Karnataka,Davangere,2015,706.9
+Karnataka,Dharwad,2015,600.1
+Karnataka,Gadag,2015,490.7
+Karnataka,Gulbarga,2015,595.3
+Karnataka,Hassan,2015,997.4
+Karnataka,Haveri,2015,665.5
+Karnataka,Kodagu,2015,2486.6
+Karnataka,Kolar,2015,1083.7
+Karnataka,Koppal,2015,523.7
+Karnataka,Mandya,2015,850.9
+Karnataka,Mysore,2015,981.1
+Karnataka,Raichur,2015,568.3
+Karnataka,Ramanagara,2015,1071.8
+Karnataka,Shimoga,2015,1590.4
+Karnataka,Tumkur,2015,939.3
+Karnataka,Udupi,2015,3819.3
+Karnataka,Uttar Kannad,2015,2135.7
+Karnataka,Yadgir,2015,482.4
+Karnataka,Bagalkot,2016,415.2
+Karnataka,Bellary,2016,371.1
+Karnataka,Belgaum,2016,701.3
+Karnataka,Bangalore Rural,2016,753.9
+Karnataka,Bengaluru Urban,2016,714.6
+Karnataka,Bidar,2016,1301.9
+Karnataka,Chamarajanagar,2016,320.8
+Karnataka,Chikballapur,2016,616.3
+Karnataka,Chikmagaluru,2016,1241.6
+Karnataka,Chitradurga,2016,321.8
+Karnataka,Dakshin Kannad,2016,2818.2
+Karnataka,Davangere,2016,494.5
+Karnataka,Dharwad,2016,470.8
+Karnataka,Gadag,2016,396.2
+Karnataka,Hassan,2016,580.3
+Karnataka,Haveri,2016,520.7
+Karnataka,Gulbarga,2016,891.6
+Karnataka,Kodagu,2016,1799.2
+Karnataka,Kolar,2016,632.4
+Karnataka,Koppal,2016,410.9
+Karnataka,Mandya,2016,473.7
+Karnataka,Mysore,2016,450
+Karnataka,Raichur,2016,567.3
+Karnataka,Ramanagara,2016,591.8
+Karnataka,Shimoga,2016,1445.7
+Karnataka,Tumkur,2016,492.6
+Karnataka,Udupi,2016,3399.7
+Karnataka,Uttar Kannad,2016,2253.6
+Karnataka,Bijapur,2016,467.7
+Karnataka,Yadgir,2016,572.3
+Karnataka,Bagalkot,2017,629
+Karnataka,Bellary,2017,729.2
+Karnataka,Belgaum,2017,839.7
+Karnataka,Bangalore Rural,2017,1259.9
+Karnataka,Bengaluru Urban,2017,1244.1
+Karnataka,Bidar,2017,855
+Karnataka,Chamarajanagar,2017,924.5
+Karnataka,Chikballapur,2017,958.8
+Karnataka,Chikmagaluru,2017,1506.1
+Karnataka,Chitradurga,2017,583
+Karnataka,Dakshin Kannad,2017,3090.4
+Karnataka,Davangere,2017,741.5
+Karnataka,Dharwad,2017,580.7
+Karnataka,Gadag,2017,558.2
+Karnataka,Hassan,2017,904.4
+Karnataka,Haveri,2017,758.2
+Karnataka,Gulbarga,2017,816.4
+Karnataka,Kodagu,2017,2288.1
+Karnataka,Kolar,2017,1168
+Karnataka,Koppal,2017,773.5
+Karnataka,Mandya,2017,1058.4
+Karnataka,Mysore,2017,1023.8
+Karnataka,Raichur,2017,767.5
+Karnataka,Ramanagara,2017,1296.3
+Karnataka,Shimoga,2017,1472.6
+Karnataka,Tumkur,2017,820.4
+Karnataka,Udupi,2017,4093.7
+Karnataka,Uttar Kannad,2017,2479.7
+Karnataka,Bijapur,2017,641.9
+Karnataka,Yadgir,2017,723
+Karnataka,Bagalkot,2018,361.4
+Karnataka,Bellary,2018,359.4
+Karnataka,Belgaum,2018,886.6
+Karnataka,Bangalore Rural,2018,823.1
+Karnataka,Bengaluru Urban,2018,771.8
+Karnataka,Bidar,2018,528.1
+Karnataka,Chamarajanagar,2018,577.4
+Karnataka,Chikballapur,2018,446.5
+Karnataka,Chikmagaluru,2018,2378.2
+Karnataka,Chitradurga,2018,452.4
+Karnataka,Dakshin Kannad,2018,4449.4
+Karnataka,Davangere,2018,656.2
+Karnataka,Dharwad,2018,713.5
+Karnataka,Gadag,2018,532.4
+Karnataka,Hassan,2018,1188.7
+Karnataka,Haveri,2018,726.6
+Karnataka,Gulbarga,2018,530.9
+Karnataka,Kodagu,2018,4114.8
+Karnataka,Kolar,2018,546
+Karnataka,Koppal,2018,398.3
+Karnataka,Mandya,2018,769.9
+Karnataka,Mysore,2018,981.9
+Karnataka,Raichur,2018,291.7
+Karnataka,Ramanagara,2018,905.1
+Karnataka,Shimoga,2018,1749.8
+Karnataka,Tumkur,2018,516.6
+Karnataka,Udupi,2018,4636.1
+Karnataka,Uttar Kannad,2018,2780.2
+Karnataka,Bijapur,2018,380.7
+Karnataka,Yadgir,2018,279.8
+Karnataka,Bagalkot,2019,788.9
+Karnataka,Bellary,2019,721.7
+Karnataka,Belgaum,2019,1468.5
+Karnataka,Bangalore Rural,2019,925.7
+Karnataka,Bengaluru Urban,2019,956.1
+Karnataka,Bidar,2019,885.5
+Karnataka,Chamarajanagar,2019,791.9
+Karnataka,Chikballapur,2019,748.1
+Karnataka,Chikmagaluru,2019,2651.8
+Karnataka,Chitradurga,2019,733.7
+Karnataka,Dakshin Kannad,2019,4211.9
+Karnataka,Davangere,2019,919.6
+Karnataka,Dharwad,2019,1149.8
+Karnataka,Gadag,2019,768.6
+Karnataka,Hassan,2019,1307.9
+Karnataka,Haveri,2019,1257.6
+Karnataka,Gulbarga,2019,794.8
+Karnataka,Kodagu,2019,3185.6
+Karnataka,Kolar,2019,743.6
+Karnataka,Koppal,2019,725.4
+Karnataka,Mandya,2019,942.1
+Karnataka,Mysore,2019,1085.9
+Karnataka,Raichur,2019,573.7
+Karnataka,Ramanagara,2019,876
+Karnataka,Shimoga,2019,2540.9
+Karnataka,Tumkur,2019,801.6
+Karnataka,Udupi,2019,5245.3
+Karnataka,Uttar Kannad,2019,4220.1
+Karnataka,Bijapur,2019,620.5
+Karnataka,Yadgir,2019,589.8
+Karnataka,Bagalkot,2020,907.3
+Karnataka,Bellary,2020,844.5
+Karnataka,Belgaum,2020,1192.9
+Karnataka,Bangalore Rural,2020,1086
+Karnataka,Bengaluru Urban,2020,1051.8
+Karnataka,Bidar,2020,1253.4
+Karnataka,Chamarajanagar,2020,891.4
+Karnataka,Chikballapur,2020,1021.2
+Karnataka,Chikmagaluru,2020,2069.7
+Karnataka,Chitradurga,2020,809.8
+Karnataka,Dakshin Kannad,2020,4157
+Karnataka,Davangere,2020,847.5
+Karnataka,Dharwad,2020,1031
+Karnataka,Gadag,2020,868.6
+Karnataka,Hassan,2020,1110
+Karnataka,Haveri,2020,800.6
+Karnataka,Gulbarga,2020,1271.3
+Karnataka,Kodagu,2020,2889.1
+Karnataka,Kolar,2020,1204.2
+Karnataka,Koppal,2020,981.2
+Karnataka,Mandya,2020,886.4
+Karnataka,Mysore,2020,826.3
+Karnataka,Raichur,2020,926.7
+Karnataka,Ramanagara,2020,1041.6
+Karnataka,Shimoga,2020,1989.3
+Karnataka,Tumkur,2020,856.5
+Karnataka,Udupi,2020,5454.9
+Karnataka,Uttar Kannad,2020,3755.9
+Karnataka,Bijapur,2020,841.7
+Karnataka,Yadgir,2020,955.6
+Karnataka,Bagalkot,2021,621.4
+Karnataka,Bellary,2021,823.3
+Karnataka,Belgaum,2021,1104.6
+Karnataka,Bangalore Rural,2021,1324.7
+Karnataka,Bengaluru Urban,2021,1288.7
+Karnataka,Bidar,2021,1034.6
+Karnataka,Chamarajanagar,2021,1090.6
+Karnataka,Chikballapur,2021,1262.3
+Karnataka,Chikmagaluru,2021,2477.7
+Karnataka,Chitradurga,2021,996.5
+Karnataka,Dakshin Kannad,2021,4164.6
+Karnataka,Davangere,2021,1110.3
+Karnataka,Dharwad,2021,1101.6
+Karnataka,Gadag,2021,873.8
+Karnataka,Hassan,2021,1319.3
+Karnataka,Haveri,2021,1092.1
+Karnataka,Gulbarga,2021,1076.6
+Karnataka,Kodagu,2021,2988.3
+Karnataka,Kolar,2021,1512.4
+Karnataka,Koppal,2021,811
+Karnataka,Mandya,2021,1207.3
+Karnataka,Mysore,2021,1041.1
+Karnataka,Raichur,2021,686.8
+Karnataka,Ramanagara,2021,1114.7
+Karnataka,Shimoga,2021,2341.8
+Karnataka,Tumkur,2021,1179.9
+Karnataka,Udupi,2021,4702.5
+Karnataka,Uttar Kannad,2021,3480.7
+Karnataka,Bijapur,2021,664
+Karnataka,Yadgir,2021,781
+Karnataka,Bagalkot,2022,866
+Karnataka,Bellary,2022,963
+Karnataka,Belgaum,2022,1147.7
+Karnataka,Bangalore Rural,2022,1374.7
+Karnataka,Bengaluru Urban,2022,1628.2
+Karnataka,Bidar,2022,1069.3
+Karnataka,Chamarajanagar,2022,1478
+Karnataka,Chikballapur,2022,1239.4
+Karnataka,Chikmagaluru,2022,2564.8
+Karnataka,Chitradurga,2022,1061.7
+Karnataka,Dakshin Kannad,2022,4191.8
+Karnataka,Davangere,2022,1247.8
+Karnataka,Dharwad,2022,1151.4
+Karnataka,Gadag,2022,1085.8
+Karnataka,Hassan,2022,1861.6
+Karnataka,Haveri,2022,1292.3
+Karnataka,Gulbarga,2022,908.5
+Karnataka,Kodagu,2022,3357.7
+Karnataka,Kolar,2022,1318
+Karnataka,Koppal,2022,822.9
+Karnataka,Mandya,2022,1619
+Karnataka,Mysore,2022,1464.8
+Karnataka,Raichur,2022,829.6
+Karnataka,Ramanagara,2022,1599.5
+Karnataka,Shimoga,2022,2326.5
+Karnataka,Tumkur,2022,1328.5
+Karnataka,Udupi,2022,4430.4
+Karnataka,Uttar Kannad,2022,3328.3
+Karnataka,Bijapur,2022,787.7
+Karnataka,Yadgir,2022,1017.6
+Karnataka,Bagalkot,2023,360.3
+Karnataka,Bellary,2023,383
+Karnataka,Belgaum,2023,632.3
+Karnataka,Bangalore Rural,2023,717.9
+Karnataka,Bengaluru Urban,2023,778.8
+Karnataka,Bidar,2023,996.7
+Karnataka,Chamarajanagar,2023,626.7
+Karnataka,Chikballapur,2023,648.8
+Karnataka,Chikmagaluru,2023,1511.5
+Karnataka,Chitradurga,2023,485
+Karnataka,Dakshin Kannad,2023,3205.4
+Karnataka,Davangere,2023,491.1
+Karnataka,Dharwad,2023,617.4
+Karnataka,Gadag,2023,420.2
+Karnataka,Hassan,2023,805.4
+Karnataka,Haveri,2023,539
+Karnataka,Gulbarga,2023,779.5
+Karnataka,Kodagu,2023,1794.6
+Karnataka,Kolar,2023,608.2
+Karnataka,Koppal,2023,434.1
+Karnataka,Mandya,2023,581.1
+Karnataka,Mysore,2023,815.4
+Karnataka,Raichur,2023,527.5
+Karnataka,Ramanagara,2023,680.2
+Karnataka,Shimoga,2023,1403
+Karnataka,Tumkur,2023,508
+Karnataka,Udupi,2023,3439.7
+Karnataka,Uttar Kannad,2023,2715.3
+Karnataka,Bijapur,2023,404
+Karnataka,Vijayanagara,2023,463.1
+Karnataka,Yadgir,2023,627.1
+Madhya Pradesh,Alirajpur,2012,928.8
+Madhya Pradesh,Anuppur,2012,1109.6
+Madhya Pradesh,Ashoknagar,2012,822.3
+Madhya Pradesh,Balaghat,2012,1173.6
+Madhya Pradesh,Barwani,2012,475.1
+Madhya Pradesh,Betul,2012,1565.4
+Madhya Pradesh,Bhind,2012,730.1
+Madhya Pradesh,Bhopal,2012,1140.3
+Madhya Pradesh,Burhanpur,2012,1072
+Madhya Pradesh,Chhatarpur,2012,835.6
+Madhya Pradesh,Chhindwara,2012,1078.7
+Madhya Pradesh,Damoh,2012,1097.6
+Madhya Pradesh,Datia,2012,904.5
+Madhya Pradesh,Dewas,2012,1202.5
+Madhya Pradesh,Dhar,2012,759.4
+Madhya Pradesh,Dindori,2012,1190.9
+Madhya Pradesh,Guna,2012,759.5
+Madhya Pradesh,Gwalior,2012,850.7
+Madhya Pradesh,Harda,2012,1589.9
+Madhya Pradesh,Hoshangabad,2012,1732.3
+Madhya Pradesh,Indore,2012,1016
+Madhya Pradesh,Jabalpur,2012,1283.7
+Madhya Pradesh,Jhabua,2012,1014
+Madhya Pradesh,Katni,2012,1038.7
+Madhya Pradesh,Khandwa,2012,1159.5
+Madhya Pradesh,Khargone,2012,739
+Madhya Pradesh,Mandla,2012,1387.9
+Madhya Pradesh,Mandsaur,2012,904.4
+Madhya Pradesh,Morena,2012,838.9
+Madhya Pradesh,Narsinghpur,2012,1039.5
+Madhya Pradesh,Neemuch,2012,799.1
+Madhya Pradesh,Panna,2012,1094.7
+Madhya Pradesh,Raisen,2012,1053.1
+Madhya Pradesh,Rajgarh,2012,988.9
+Madhya Pradesh,Ratlam,2012,1018.4
+Madhya Pradesh,Rewa,2012,1224.2
+Madhya Pradesh,Sagar,2012,912.3
+Madhya Pradesh,Satna,2012,959.6
+Madhya Pradesh,Sehore,2012,1315
+Madhya Pradesh,Seoni,2012,1118.5
+Madhya Pradesh,Shahdol,2012,982.9
+Madhya Pradesh,Shajapur,2012,898.9
+Madhya Pradesh,Sheopur,2012,754.4
+Madhya Pradesh,Shivpuri,2012,949.7
+Madhya Pradesh,Sidhi,2012,1487.4
+Madhya Pradesh,Singrauli,2012,1404.8
+Madhya Pradesh,Tikamgarh,2012,817.8
+Madhya Pradesh,Ujjain,2012,994.8
+Madhya Pradesh,Umaria,2012,814.2
+Madhya Pradesh,Vidisha,2012,955.2
+Madhya Pradesh,Alirajpur,2013,1407.7
+Madhya Pradesh,Anuppur,2013,1268.6
+Madhya Pradesh,Ashoknagar,2013,1469.5
+Madhya Pradesh,Balaghat,2013,1428.8
+Madhya Pradesh,Barwani,2013,935.8
+Madhya Pradesh,Betul,2013,1684
+Madhya Pradesh,Bhind,2013,1103
+Madhya Pradesh,Bhopal,2013,1374.6
+Madhya Pradesh,Burhanpur,2013,1488.4
+Madhya Pradesh,Chhatarpur,2013,1502.4
+Madhya Pradesh,Chhindwara,2013,1408
+Madhya Pradesh,Damoh,2013,1793.8
+Madhya Pradesh,Datia,2013,1166
+Madhya Pradesh,Dewas,2013,1413.3
+Madhya Pradesh,Dhar,2013,1296.7
+Madhya Pradesh,Dindori,2013,1229.1
+Madhya Pradesh,Guna,2013,1678.5
+Madhya Pradesh,Gwalior,2013,1027.4
+Madhya Pradesh,Harda,2013,1837.6
+Madhya Pradesh,Hoshangabad,2013,2102.8
+Madhya Pradesh,Indore,2013,1619.1
+Madhya Pradesh,Jabalpur,2013,2109.7
+Madhya Pradesh,Jhabua,2013,1292.9
+Madhya Pradesh,Katni,2013,1342.6
+Madhya Pradesh,Khandwa,2013,1456.4
+Madhya Pradesh,Khargone,2013,1033
+Madhya Pradesh,Mandla,2013,1828.1
+Madhya Pradesh,Mandsaur,2013,1110.6
+Madhya Pradesh,Morena,2013,1054.5
+Madhya Pradesh,Narsinghpur,2013,1821
+Madhya Pradesh,Neemuch,2013,1294.8
+Madhya Pradesh,Panna,2013,1621.9
+Madhya Pradesh,Raisen,2013,1601.4
+Madhya Pradesh,Rajgarh,2013,1576
+Madhya Pradesh,Ratlam,2013,1353
+Madhya Pradesh,Rewa,2013,1479.2
+Madhya Pradesh,Sagar,2013,1934.5
+Madhya Pradesh,Satna,2013,1351.2
+Madhya Pradesh,Sehore,2013,1480.8
+Madhya Pradesh,Seoni,2013,1734.7
+Madhya Pradesh,Shahdol,2013,1055.3
+Madhya Pradesh,Shajapur,2013,1371.3
+Madhya Pradesh,Sheopur,2013,1018.8
+Madhya Pradesh,Shivpuri,2013,1331.7
+Madhya Pradesh,Sidhi,2013,1327.3
+Madhya Pradesh,Singrauli,2013,1030.9
+Madhya Pradesh,Tikamgarh,2013,1314.8
+Madhya Pradesh,Ujjain,2013,1272.9
+Madhya Pradesh,Umaria,2013,1175.9
+Madhya Pradesh,Vidisha,2013,1614.7
+Madhya Pradesh,Alirajpur,2014,949.5
+Madhya Pradesh,Anuppur,2014,1307.8
+Madhya Pradesh,Ashoknagar,2014,851.2
+Madhya Pradesh,Balaghat,2014,1076.1
+Madhya Pradesh,Barwani,2014,728.9
+Madhya Pradesh,Betul,2014,1061.4
+Madhya Pradesh,Bhind,2014,510.6
+Madhya Pradesh,Bhopal,2014,880.7
+Madhya Pradesh,Burhanpur,2014,1100.2
+Madhya Pradesh,Chhatarpur,2014,746.2
+Madhya Pradesh,Chhindwara,2014,807
+Madhya Pradesh,Damoh,2014,824.4
+Madhya Pradesh,Datia,2014,724.3
+Madhya Pradesh,Dewas,2014,684.9
+Madhya Pradesh,Dhar,2014,736.2
+Madhya Pradesh,Dindori,2014,1152.8
+Madhya Pradesh,Guna,2014,927.4
+Madhya Pradesh,Gwalior,2014,712.3
+Madhya Pradesh,Harda,2014,1173.2
+Madhya Pradesh,Hoshangabad,2014,1143.7
+Madhya Pradesh,Indore,2014,811.1
+Madhya Pradesh,Jabalpur,2014,968.8
+Madhya Pradesh,Jhabua,2014,793.2
+Madhya Pradesh,Katni,2014,900.3
+Madhya Pradesh,Khandwa,2014,1275.7
+Madhya Pradesh,Khargone,2014,857.3
+Madhya Pradesh,Mandla,2014,1229.2
+Madhya Pradesh,Mandsaur,2014,802.3
+Madhya Pradesh,Morena,2014,493.4
+Madhya Pradesh,Narsinghpur,2014,915.3
+Madhya Pradesh,Neemuch,2014,830.6
+Madhya Pradesh,Panna,2014,709
+Madhya Pradesh,Raisen,2014,1036.8
+Madhya Pradesh,Rajgarh,2014,1017.5
+Madhya Pradesh,Ratlam,2014,614.3
+Madhya Pradesh,Rewa,2014,957.9
+Madhya Pradesh,Sagar,2014,865.5
+Madhya Pradesh,Satna,2014,808.8
+Madhya Pradesh,Sehore,2014,941.7
+Madhya Pradesh,Seoni,2014,880.2
+Madhya Pradesh,Shahdol,2014,990.1
+Madhya Pradesh,Shajapur,2014,753.5
+Madhya Pradesh,Sheopur,2014,678
+Madhya Pradesh,Shivpuri,2014,817.2
+Madhya Pradesh,Sidhi,2014,1242.7
+Madhya Pradesh,Singrauli,2014,698.3
+Madhya Pradesh,Tikamgarh,2014,868.4
+Madhya Pradesh,Ujjain,2014,648.9
+Madhya Pradesh,Umaria,2014,919.6
+Madhya Pradesh,Vidisha,2014,1020.6
+Madhya Pradesh,ALIRAJPUR,2015,875.6
+Madhya Pradesh,ANUPPUR,2015,770.9
+Madhya Pradesh,ASHOKNAGAR,2015,896.5
+Madhya Pradesh,BALAGHAT,2015,1004.6
+Madhya Pradesh,BARWANI,2015,644.6
+Madhya Pradesh,BETUL,2015,1240
+Madhya Pradesh,BHIND,2015,544.8
+Madhya Pradesh,BHOPAL,2015,1101.8
+Madhya Pradesh,BURHANPUR,2015,866.7
+Madhya Pradesh,CHHATARPUR,2015,799.1
+Madhya Pradesh,CHINDWARA,2015,1133.3
+Madhya Pradesh,DAMOH,2015,971.4
+Madhya Pradesh,DATIA,2015,679.7
+Madhya Pradesh,DEWAS,2015,1257.9
+Madhya Pradesh,DHAR,2015,1021.6
+Madhya Pradesh,DINDORI,2015,1362.9
+Madhya Pradesh,GUNA,2015,1201.5
+Madhya Pradesh,GWALIOR,2015,861
+Madhya Pradesh,HARDA,2015,1205.6
+Madhya Pradesh,HOSHANGABAD,2015,1342.1
+Madhya Pradesh,INDORE,2015,1329.3
+Madhya Pradesh,JABALPUR,2015,1043.7
+Madhya Pradesh,JHABUA,2015,776.2
+Madhya Pradesh,KATNI,2015,832.4
+Madhya Pradesh,KHANDWA,2015,1103.9
+Madhya Pradesh,KHARGONE,2015,800.8
+Madhya Pradesh,MANDLA,2015,1195.8
+Madhya Pradesh,MANDSAUR,2015,900.5
+Madhya Pradesh,MORENA,2015,567.7
+Madhya Pradesh,NARSINGHPUR,2015,1006.1
+Madhya Pradesh,NEEMUCH,2015,741.7
+Madhya Pradesh,PANNA,2015,777.3
+Madhya Pradesh,RAISEN,2015,1206
+Madhya Pradesh,RAJGARH,2015,1565.4
+Madhya Pradesh,RATLAM,2015,1236.3
+Madhya Pradesh,REWA,2015,803.1
+Madhya Pradesh,SAGAR,2015,765.7
+Madhya Pradesh,SATNA,2015,1081.5
+Madhya Pradesh,SEHORE,2015,1182.4
+Madhya Pradesh,SEONI,2015,1013.6
+Madhya Pradesh,SHAHDOL,2015,787.7
+Madhya Pradesh,SHAJAPUR,2015,1578.4
+Madhya Pradesh,SHEOPUR,2015,608.7
+Madhya Pradesh,SHIVPURI,2015,769.2
+Madhya Pradesh,SIDHI,2015,806
+Madhya Pradesh,SINGRAULI,2015,799.6
+Madhya Pradesh,TIKAMGARH,2015,685
+Madhya Pradesh,UJJAIN,2015,1521.2
+Madhya Pradesh,UMARIA,2015,1003.5
+Madhya Pradesh,VIDISHA,2015,1015.4
+Madhya Pradesh,AGAR-MALWA,2016,1360.2
+Madhya Pradesh,ALIRAJPUR,2016,1093.9
+Madhya Pradesh,ANUPPUR,2016,1053.3
+Madhya Pradesh,ASHOKNAGAR,2016,1064
+Madhya Pradesh,BALAGHAT,2016,1011.3
+Madhya Pradesh,BARWANI,2016,603
+Madhya Pradesh,BETUL,2016,1046.1
+Madhya Pradesh,BHIND,2016,586.4
+Madhya Pradesh,BHOPAL,2016,1576.8
+Madhya Pradesh,BURHANPUR,2016,830.8
+Madhya Pradesh,CHHATARPUR,2016,1513.4
+Madhya Pradesh,CHHINDWARA,2016,1049.6
+Madhya Pradesh,DAMOH,2016,1623.3
+Madhya Pradesh,DATIA,2016,631.7
+Madhya Pradesh,DEWAS,2016,924
+Madhya Pradesh,DHAR,2016,959.6
+Madhya Pradesh,DINDORI,2016,1477
+Madhya Pradesh,GUNA,2016,1319.1
+Madhya Pradesh,GWALIOR,2016,631.9
+Madhya Pradesh,HARDA,2016,996
+Madhya Pradesh,HOSHANGABAD,2016,2171.4
+Madhya Pradesh,INDORE,2016,922
+Madhya Pradesh,JABALPUR,2016,1485.8
+Madhya Pradesh,JHABUA,2016,1079.6
+Madhya Pradesh,KATNI,2016,1410.4
+Madhya Pradesh,KHANDWA,2016,1001.3
+Madhya Pradesh,KHARGONE,2016,734.8
+Madhya Pradesh,MANDLA,2016,1547.3
+Madhya Pradesh,MANDSAUR,2016,1036.9
+Madhya Pradesh,MORENA,2016,564.1
+Madhya Pradesh,NARSINGHPUR,2016,1187.4
+Madhya Pradesh,NEEMUCH,2016,1113.4
+Madhya Pradesh,PANNA,2016,1747.5
+Madhya Pradesh,RAISEN,2016,1469.8
+Madhya Pradesh,RAJGARH,2016,1377.8
+Madhya Pradesh,RATLAM,2016,1353.7
+Madhya Pradesh,REWA,2016,1275
+Madhya Pradesh,SAGAR,2016,1392.9
+Madhya Pradesh,SATNA,2016,1703.5
+Madhya Pradesh,SEHORE,2016,1489.5
+Madhya Pradesh,SEONI,2016,1236.2
+Madhya Pradesh,SHAHDOL,2016,1162.2
+Madhya Pradesh,SHAJAPUR,2016,1162.8
+Madhya Pradesh,SHEOPUR,2016,727.9
+Madhya Pradesh,SHIVPURI,2016,883.5
+Madhya Pradesh,SIDHI,2016,1376.6
+Madhya Pradesh,SINGRAULI,2016,1298.3
+Madhya Pradesh,TIKAMGARH,2016,836.5
+Madhya Pradesh,UJJAIN,2016,1202.8
+Madhya Pradesh,UMARIA,2016,1335.2
+Madhya Pradesh,VIDISHA,2016,1532
+Madhya Pradesh,AGAR-MALWA,2017,815.5
+Madhya Pradesh,ALIRAJPUR,2017,787.3
+Madhya Pradesh,ANUPPUR,2017,934.8
+Madhya Pradesh,ASHOKNAGAR,2017,849.3
+Madhya Pradesh,BALAGHAT,2017,915.4
+Madhya Pradesh,BARWANI,2017,645.9
+Madhya Pradesh,BETUL,2017,808
+Madhya Pradesh,BHIND,2017,492.8
+Madhya Pradesh,BHOPAL,2017,806
+Madhya Pradesh,BURHANPUR,2017,911.5
+Madhya Pradesh,CHHATARPUR,2017,677
+Madhya Pradesh,CHHINDWARA,2017,883
+Madhya Pradesh,DAMOH,2017,726.8
+Madhya Pradesh,DATIA,2017,585.8
+Madhya Pradesh,DEWAS,2017,810.2
+Madhya Pradesh,DHAR,2017,761.7
+Madhya Pradesh,DINDORI,2017,914.8
+Madhya Pradesh,GUNA,2017,808.3
+Madhya Pradesh,GWALIOR,2017,631.6
+Madhya Pradesh,HARDA,2017,675.8
+Madhya Pradesh,HOSHANGABAD,2017,1043.8
+Madhya Pradesh,INDORE,2017,776.8
+Madhya Pradesh,JABALPUR,2017,902.5
+Madhya Pradesh,JHABUA,2017,845.6
+Madhya Pradesh,KATNI,2017,1115.8
+Madhya Pradesh,KHANDWA,2017,977.8
+Madhya Pradesh,KHARGONE,2017,775.5
+Madhya Pradesh,MANDLA,2017,944.1
+Madhya Pradesh,MANDSAUR,2017,668.7
+Madhya Pradesh,MORENA,2017,492.5
+Madhya Pradesh,NARSINGHPUR,2017,777
+Madhya Pradesh,NEEMUCH,2017,801
+Madhya Pradesh,PANNA,2017,857.3
+Madhya Pradesh,RAISEN,2017,927.5
+Madhya Pradesh,RAJGARH,2017,840.6
+Madhya Pradesh,RATLAM,2017,978
+Madhya Pradesh,REWA,2017,891.6
+Madhya Pradesh,SAGAR,2017,884.2
+Madhya Pradesh,SATNA,2017,743.3
+Madhya Pradesh,SEHORE,2017,905.5
+Madhya Pradesh,SEONI,2017,907.1
+Madhya Pradesh,SHAHDOL,2017,743.5
+Madhya Pradesh,SHAJAPUR,2017,663.2
+Madhya Pradesh,SHEOPUR,2017,436
+Madhya Pradesh,SHIVPURI,2017,523.1
+Madhya Pradesh,SIDHI,2017,748
+Madhya Pradesh,SINGRAULI,2017,866.9
+Madhya Pradesh,TIKAMGARH,2017,599
+Madhya Pradesh,UJJAIN,2017,814.1
+Madhya Pradesh,UMARIA,2017,728.6
+Madhya Pradesh,VIDISHA,2017,811.8
+Madhya Pradesh,AGAR-MALWA,2018,820
+Madhya Pradesh,ALIRAJPUR,2018,688.2
+Madhya Pradesh,ANUPPUR,2018,927.2
+Madhya Pradesh,ASHOKNAGAR,2018,894.5
+Madhya Pradesh,BALAGHAT,2018,1039.2
+Madhya Pradesh,BARWANI,2018,619.2
+Madhya Pradesh,BETUL,2018,637.2
+Madhya Pradesh,BHIND,2018,950.9
+Madhya Pradesh,BHOPAL,2018,838.1
+Madhya Pradesh,BURHANPUR,2018,829.7
+Madhya Pradesh,CHHATARPUR,2018,917.4
+Madhya Pradesh,CHHINDWARA,2018,763.5
+Madhya Pradesh,DAMOH,2018,989
+Madhya Pradesh,DATIA,2018,963.9
+Madhya Pradesh,DEWAS,2018,675.5
+Madhya Pradesh,DHAR,2018,684.4
+Madhya Pradesh,DINDORI,2018,1059.8
+Madhya Pradesh,GUNA,2018,910
+Madhya Pradesh,GWALIOR,2018,759.6
+Madhya Pradesh,HARDA,2018,781.1
+Madhya Pradesh,HOSHANGABAD,2018,1090.2
+Madhya Pradesh,INDORE,2018,811.9
+Madhya Pradesh,JABALPUR,2018,1081.9
+Madhya Pradesh,JHABUA,2018,774.4
+Madhya Pradesh,KATNI,2018,1082.8
+Madhya Pradesh,KHANDWA,2018,1038.3
+Madhya Pradesh,KHARGONE,2018,707.2
+Madhya Pradesh,MANDLA,2018,1073.6
+Madhya Pradesh,MANDSAUR,2018,877.9
+Madhya Pradesh,MORENA,2018,813
+Madhya Pradesh,NARSINGHPUR,2018,940.2
+Madhya Pradesh,NEEMUCH,2018,1058.7
+Madhya Pradesh,PANNA,2018,890.5
+Madhya Pradesh,RAISEN,2018,1064.8
+Madhya Pradesh,RAJGARH,2018,809
+Madhya Pradesh,RATLAM,2018,945.7
+Madhya Pradesh,REWA,2018,928.6
+Madhya Pradesh,SAGAR,2018,901.8
+Madhya Pradesh,SATNA,2018,784.2
+Madhya Pradesh,SEHORE,2018,892.8
+Madhya Pradesh,SEONI,2018,811.9
+Madhya Pradesh,SHAHDOL,2018,886.5
+Madhya Pradesh,SHAJAPUR,2018,760.9
+Madhya Pradesh,SHEOPUR,2018,799.2
+Madhya Pradesh,SHIVPURI,2018,994.8
+Madhya Pradesh,SIDHI,2018,999.4
+Madhya Pradesh,SINGRAULI,2018,924.2
+Madhya Pradesh,TIKAMGARH,2018,1305.4
+Madhya Pradesh,UJJAIN,2018,776.5
+Madhya Pradesh,UMARIA,2018,1430.1
+Madhya Pradesh,VIDISHA,2018,916.2
+Madhya Pradesh,AGAR-MALWA,2019,1929.2
+Madhya Pradesh,ALIRAJPUR,2019,1520.9
+Madhya Pradesh,ANUPPUR,2019,1475.7
+Madhya Pradesh,ASHOKNAGAR,2019,1456.5
+Madhya Pradesh,BALAGHAT,2019,1378.2
+Madhya Pradesh,BARWANI,2019,1200.7
+Madhya Pradesh,BETUL,2019,1388.9
+Madhya Pradesh,BHIND,2019,793.1
+Madhya Pradesh,BHOPAL,2019,1926.9
+Madhya Pradesh,BURHANPUR,2019,1336.7
+Madhya Pradesh,CHHATARPUR,2019,1295.9
+Madhya Pradesh,CHHINDWARA,2019,1414.7
+Madhya Pradesh,DAMOH,2019,1533.5
+Madhya Pradesh,DATIA,2019,787.2
+Madhya Pradesh,DEWAS,2019,1506
+Madhya Pradesh,DHAR,2019,1291.1
+Madhya Pradesh,DINDORI,2019,1610.1
+Madhya Pradesh,GUNA,2019,1616.5
+Madhya Pradesh,GWALIOR,2019,894.9
+Madhya Pradesh,HARDA,2019,1717.6
+Madhya Pradesh,HOSHANGABAD,2019,2075.9
+Madhya Pradesh,INDORE,2019,1501.5
+Madhya Pradesh,JABALPUR,2019,1659.3
+Madhya Pradesh,JHABUA,2019,1549.3
+Madhya Pradesh,KATNI,2019,1416.2
+Madhya Pradesh,KHANDWA,2019,1402.1
+Madhya Pradesh,KHARGONE,2019,1063.7
+Madhya Pradesh,MANDLA,2019,1874.5
+Madhya Pradesh,MANDSAUR,2019,2144.5
+Madhya Pradesh,MORENA,2019,837
+Madhya Pradesh,NARSINGHPUR,2019,1742.6
+Madhya Pradesh,NEEMUCH,2019,1804.4
+Madhya Pradesh,PANNA,2019,1201.3
+Madhya Pradesh,RAISEN,2019,1939.2
+Madhya Pradesh,RAJGARH,2019,1725
+Madhya Pradesh,RATLAM,2019,1661
+Madhya Pradesh,REWA,2019,1343.2
+Madhya Pradesh,SAGAR,2019,1557.2
+Madhya Pradesh,SATNA,2019,990.6
+Madhya Pradesh,SEHORE,2019,1842.8
+Madhya Pradesh,SEONI,2019,1608.1
+Madhya Pradesh,SHAHDOL,2019,977
+Madhya Pradesh,SHAJAPUR,2019,1807
+Madhya Pradesh,SHEOPUR,2019,910.3
+Madhya Pradesh,SHIVPURI,2019,975.5
+Madhya Pradesh,SIDHI,2019,1060.8
+Madhya Pradesh,SINGRAULI,2019,1395
+Madhya Pradesh,TIKAMGARH,2019,1180.7
+Madhya Pradesh,UJJAIN,2019,1583.2
+Madhya Pradesh,UMARIA,2019,1412.6
+Madhya Pradesh,VIDISHA,2019,1670.2
+Madhya Pradesh,Anuppur,2020,1491
+Madhya Pradesh,Balaghat,2020,1496.3
+Madhya Pradesh,Chhatarpur,2020,831.2
+Madhya Pradesh,Chhindwara,2020,1559.4
+Madhya Pradesh,Damoh,2020,1031.5
+Madhya Pradesh,Dindori,2020,1656.5
+Madhya Pradesh,Jabalpur,2020,1112
+Madhya Pradesh,Katni,2020,921.1
+Madhya Pradesh,Mandla,2020,1468.4
+Madhya Pradesh,Narsinghpur,2020,1170.1
+Madhya Pradesh,Panna,2020,1061.5
+Madhya Pradesh,Rewa,2020,1088.8
+Madhya Pradesh,Sagar,2020,1006.9
+Madhya Pradesh,Satna,2020,867.1
+Madhya Pradesh,Seoni,2020,1309.6
+Madhya Pradesh,Shahdol,2020,1206.4
+Madhya Pradesh,Sidhi,2020,1043.8
+Madhya Pradesh,Singrauli,2020,1294.9
+Madhya Pradesh,Tikamgarh,2020,791.6
+Madhya Pradesh,Umaria,2020,1427.2
+Madhya Pradesh,Agar-Malwa,2020,1026
+Madhya Pradesh,Alirajpur,2020,978.2
+Madhya Pradesh,Ashoknagar,2020,1000.8
+Madhya Pradesh,Barwani,2020,889.9
+Madhya Pradesh,Betul,2020,1260.8
+Madhya Pradesh,Bhind,2020,609.3
+Madhya Pradesh,Bhopal,2020,1354.1
+Madhya Pradesh,Burhanpur,2020,896.5
+Madhya Pradesh,Datia,2020,643
+Madhya Pradesh,Dewas,2020,1409.9
+Madhya Pradesh,Dhar,2020,902.5
+Madhya Pradesh,Guna,2020,902.2
+Madhya Pradesh,Gwalior,2020,651.6
+Madhya Pradesh,Harda,2020,1202.8
+Madhya Pradesh,Hoshangabad,2020,1356
+Madhya Pradesh,Indore,2020,1268.6
+Madhya Pradesh,Jhabua,2020,1032.6
+Madhya Pradesh,Khandwa,2020,1047.1
+Madhya Pradesh,Khargone,2020,871.4
+Madhya Pradesh,Mandsaur,2020,643
+Madhya Pradesh,Morena,2020,635
+Madhya Pradesh,Neemuch,2020,752
+Madhya Pradesh,Raisen,2020,1436.8
+Madhya Pradesh,Rajgarh,2020,1057.6
+Madhya Pradesh,Ratlam,2020,1145.6
+Madhya Pradesh,Sehore,2020,1456.6
+Madhya Pradesh,Shajapur,2020,1120.7
+Madhya Pradesh,Sheopur,2020,643.1
+Madhya Pradesh,Shivpuri,2020,855.6
+Madhya Pradesh,Ujjain,2020,1136.3
+Madhya Pradesh,Vidisha,2020,1121.5
+Madhya Pradesh,Agar-Malwa,2021,1351.3
+Madhya Pradesh,Alirajpur,2021,1092.4
+Madhya Pradesh,Anuppur,2021,1329.1
+Madhya Pradesh,Ashoknagar,2021,1304
+Madhya Pradesh,Balaghat,2021,1121.3
+Madhya Pradesh,Barwani,2021,755
+Madhya Pradesh,Betul,2021,1191.1
+Madhya Pradesh,Bhind,2021,1015.1
+Madhya Pradesh,Bhopal,2021,1147.1
+Madhya Pradesh,Burhanpur,2021,935.1
+Madhya Pradesh,Chhatarpur,2021,841.5
+Madhya Pradesh,Chhindwara,2021,1106.3
+Madhya Pradesh,Damoh,2021,783.3
+Madhya Pradesh,Datia,2021,896.4
+Madhya Pradesh,Dewas,2021,1060.8
+Madhya Pradesh,Dindori,2021,1275.9
+Madhya Pradesh,Dhar,2021,775.7
+Madhya Pradesh,Guna,2021,1827.3
+Madhya Pradesh,Gwalior,2021,874.3
+Madhya Pradesh,Harda,2021,1019.6
+Madhya Pradesh,Hoshangabad,2021,1119.4
+Madhya Pradesh,Indore,2021,1036.1
+Madhya Pradesh,Jabalpur,2021,846.3
+Madhya Pradesh,Jhabua,2021,912.7
+Madhya Pradesh,Katni,2021,828.2
+Madhya Pradesh,Khandwa,2021,949.5
+Madhya Pradesh,Khargone,2021,679.6
+Madhya Pradesh,Mandla,2021,1189.5
+Madhya Pradesh,Mandsaur,2021,1047.3
+Madhya Pradesh,Morena,2021,777
+Madhya Pradesh,Narsinghpur,2021,943
+Madhya Pradesh,Neemuch,2021,1351.6
+Madhya Pradesh,Niwari,2021,1223.3
+Madhya Pradesh,Panna,2021,874.2
+Madhya Pradesh,Raisen,2021,1140.1
+Madhya Pradesh,Rajgarh,2021,1340
+Madhya Pradesh,Ratlam,2021,1146.6
+Madhya Pradesh,Rewa,2021,1160.8
+Madhya Pradesh,Sagar,2021,1065.9
+Madhya Pradesh,Satna,2021,936.8
+Madhya Pradesh,Sehore,2021,1084.5
+Madhya Pradesh,Seoni,2021,990.7
+Madhya Pradesh,Shahdol,2021,1139.5
+Madhya Pradesh,Shajapur,2021,1189.3
+Madhya Pradesh,Sheopur,2021,1621.6
+Madhya Pradesh,Shivpuri,2021,1453.5
+Madhya Pradesh,Sidhi,2021,1146
+Madhya Pradesh,Singrauli,2021,1440.5
+Madhya Pradesh,Tikamgarh,2021,863.8
+Madhya Pradesh,Ujjain,2021,1147.3
+Madhya Pradesh,Umaria,2021,1130.9
+Madhya Pradesh,Vidisha,2021,1335.6
+Madhya Pradesh,Agar-Malwa,2022,1553.6
+Madhya Pradesh,Alirajpur,2022,791.6
+Madhya Pradesh,Anuppur,2022,1388.1
+Madhya Pradesh,Ashoknagar,2022,1348.6
+Madhya Pradesh,Balaghat,2022,1653.2
+Madhya Pradesh,Barwani,2022,831.2
+Madhya Pradesh,Betul,2022,1725.9
+Madhya Pradesh,Bhind,2022,918.5
+Madhya Pradesh,Bhopal,2022,1940.9
+Madhya Pradesh,Burhanpur,2022,1273.9
+Madhya Pradesh,Chhatarpur,2022,1178.7
+Madhya Pradesh,Chhindwara,2022,1690.1
+Madhya Pradesh,Damoh,2022,1168.6
+Madhya Pradesh,Datia,2022,751.2
+Madhya Pradesh,Dewas,2022,1453.6
+Madhya Pradesh,Dindori,2022,1265.3
+Madhya Pradesh,Dhar,2022,854.6
+Madhya Pradesh,Guna,2022,1765.9
+Madhya Pradesh,Gwalior,2022,852.5
+Madhya Pradesh,Harda,2022,1511.3
+Madhya Pradesh,Indore,2022,1178
+Madhya Pradesh,Jabalpur,2022,1305.7
+Madhya Pradesh,Jhabua,2022,776.9
+Madhya Pradesh,Katni,2022,1028.5
+Madhya Pradesh,Khandwa,2022,1120.8
+Madhya Pradesh,Khargone,2022,901.2
+Madhya Pradesh,Mandla,2022,1570.4
+Madhya Pradesh,Mandsaur,2022,1125.4
+Madhya Pradesh,Morena,2022,861.9
+Madhya Pradesh,Narmadapuram,2022,1883.3
+Madhya Pradesh,Narsinghpur,2022,1399.1
+Madhya Pradesh,Neemuch,2022,1251.7
+Madhya Pradesh,Niwari,2022,1194.7
+Madhya Pradesh,Panna,2022,1250.3
+Madhya Pradesh,Raisen,2022,1750.3
+Madhya Pradesh,Rajgarh,2022,1897.5
+Madhya Pradesh,Ratlam,2022,1261.3
+Madhya Pradesh,Rewa,2022,881.4
+Madhya Pradesh,Sagar,2022,1450.6
+Madhya Pradesh,Satna,2022,924.7
+Madhya Pradesh,Sehore,2022,1664.1
+Madhya Pradesh,Seoni,2022,1568.5
+Madhya Pradesh,Shahdol,2022,1151.4
+Madhya Pradesh,Shajapur,2022,1462.1
+Madhya Pradesh,Sheopur,2022,1182.8
+Madhya Pradesh,Shivpuri,2022,1193.7
+Madhya Pradesh,Sidhi,2022,966.7
+Madhya Pradesh,Singrauli,2022,939
+Madhya Pradesh,Tikamgarh,2022,963.6
+Madhya Pradesh,Ujjain,2022,1201.6
+Madhya Pradesh,Umaria,2022,1172.1
+Madhya Pradesh,Vidisha,2022,1686.6
+Madhya Pradesh,Anuppur,2023,1394.5
+Madhya Pradesh,Balaghat,2023,1371.3
+Madhya Pradesh,Chhatarpur,2023,904
+Madhya Pradesh,Chhindwara,2023,1377
+Madhya Pradesh,Damoh,2023,949
+Madhya Pradesh,Dindori,2023,1328.4
+Madhya Pradesh,Jabalpur,2023,1231.2
+Madhya Pradesh,Katni,2023,1113.1
+Madhya Pradesh,Mandla,2023,1347.2
+Madhya Pradesh,Narsinghpur,2023,1439
+Madhya Pradesh,Niwari,2023,1066.3
+Madhya Pradesh,Panna,2023,1081.5
+Madhya Pradesh,Rewa,2023,835.9
+Madhya Pradesh,Sagar,2023,1114.9
+Madhya Pradesh,Satna,2023,694.3
+Madhya Pradesh,Seoni,2023,1497.3
+Madhya Pradesh,Shahdol,2023,1126.4
+Madhya Pradesh,Sidhi,2023,851.4
+Madhya Pradesh,Singrauli,2023,985.9
+Madhya Pradesh,Tikamgarh,2023,985.1
+Madhya Pradesh,Umaria,2023,1085.6
+Madhya Pradesh,Agar-Malwa,2023,966.7
+Madhya Pradesh,Alirajpur,2023,1232.6
+Madhya Pradesh,Ashoknagar,2023,705.5
+Madhya Pradesh,Barwani,2023,865.4
+Madhya Pradesh,Betul,2023,1288.2
+Madhya Pradesh,Bhind,2023,996.9
+Madhya Pradesh,Bhopal,2023,960
+Madhya Pradesh,Burhanpur,2023,1294.4
+Madhya Pradesh,Datia,2023,744
+Madhya Pradesh,Dewas,2023,1215.7
+Madhya Pradesh,Dhar,2023,998.9
+Madhya Pradesh,Guna,2023,771.7
+Madhya Pradesh,Gwalior,2023,724.5
+Madhya Pradesh,Harda,2023,1282
+Madhya Pradesh,Indore,2023,1393.7
+Madhya Pradesh,Jhabua,2023,1225.7
+Madhya Pradesh,Khandwa,2023,1027.4
+Madhya Pradesh,Khargone,2023,1027.6
+Madhya Pradesh,Mandsaur,2023,775.4
+Madhya Pradesh,Morena,2023,733.5
+Madhya Pradesh,Narmadapuram,2023,1256.1
+Madhya Pradesh,Neemuch,2023,858.7
+Madhya Pradesh,Raisen,2023,1257.1
+Madhya Pradesh,Rajgarh,2023,844.2
+Madhya Pradesh,Ratlam,2023,1327.9
+Madhya Pradesh,Sehore,2023,1206.7
+Madhya Pradesh,Shajapur,2023,808.3
+Madhya Pradesh,Sheopur,2023,853.6
+Madhya Pradesh,Shivpuri,2023,867.6
+Madhya Pradesh,Ujjain,2023,1071.7
+Madhya Pradesh,Vidisha,2023,1031.1
+Maharashtra,Ahmednagar,2012,394.1
+Maharashtra,Akola,2012,824.5
+Maharashtra,Amraoti,2012,1036.5
+Maharashtra,Aurangabad,2012,404.9
+Maharashtra,Beed,2012,431.6
+Maharashtra,Bhandara,2012,—
+Maharashtra,Buldhana,2012,597.4
+Maharashtra,Chandrapur,2012,1338.3
+Maharashtra,Dhule,2012,—
+Maharashtra,Gadchiroli,2012,—
+Maharashtra,Gondia,2012,1270.8
+Maharashtra,Hingoli,2012,—
+Maharashtra,Jalgaon,2012,408.1
+Maharashtra,Jalna,2012,322.3
+Maharashtra,Kolhapur,2012,1618.9
+Maharashtra,Latur,2012,771.3
+Maharashtra,Mumbai City,2012,1560
+Maharashtra,Mumbai Suburban,2012,2057.6
+Maharashtra,Nagpur,2012,1019.9
+Maharashtra,Nanded,2012,684.7
+Maharashtra,Nandurbar,2012,—
+Maharashtra,Nashik,2012,950.6
+Maharashtra,Osmanabad,2012,440.3
+Maharashtra,Parbhani,2012,674.9
+Maharashtra,Pune,2012,690.6
+Maharashtra,Raigad,2012,3071.3
+Maharashtra,Ratnagiri,2012,3720.7
+Maharashtra,Sangli,2012,470.4
+Maharashtra,Satara,2012,818.2
+Maharashtra,Solapur,2012,454.6
+Maharashtra,Sindhudurg,2012,3266.6
+Maharashtra,Thane,2012,2192.9
+Maharashtra,Wardha,2012,880
+Maharashtra,Washim,2012,863.3
+Maharashtra,Yavatmal,2012,928.7
+Maharashtra,Ahmednagar,2013,601.2
+Maharashtra,Akola,2013,1334.9
+Maharashtra,Amraoti,2013,1114.2
+Maharashtra,Aurangabad,2013,709.5
+Maharashtra,Beed,2013,690.5
+Maharashtra,Bhandara,2013,1764.7
+Maharashtra,Buldhana,2013,918.8
+Maharashtra,Chandrapur,2013,1904.3
+Maharashtra,Gadchiroli,2013,2246.1
+Maharashtra,Gondia,2013,1955.6
+Maharashtra,Jalgaon,2013,929.4
+Maharashtra,Jalna,2013,822.9
+Maharashtra,Kolhapur,2013,1891.6
+Maharashtra,Latur,2013,939.8
+Maharashtra,Mumbai City,2013,2443.4
+Maharashtra,Mumbai Suburban,2013,2518.2
+Maharashtra,Nagpur,2013,1443.5
+Maharashtra,Nanded,2013,1175.3
+Maharashtra,Nashik,2013,1211.6
+Maharashtra,Osmanabad,2013,736.2
+Maharashtra,Parbhani,2013,1000
+Maharashtra,Pune,2013,1106.4
+Maharashtra,Raigad,2013,3802.7
+Maharashtra,Ratnagiri,2013,4357.4
+Maharashtra,Sangli,2013,625.7
+Maharashtra,Satara,2013,925.6
+Maharashtra,Solapur,2013,593.8
+Maharashtra,Sindhudurg,2013,3811.4
+Maharashtra,Thane,2013,3026.5
+Maharashtra,Wardha,2013,1227.3
+Maharashtra,Washim,2013,1329.8
+Maharashtra,Yavatmal,2013,1317.5
+Maharashtra,Ahmednagar,2014,500.5
+Maharashtra,Akola,2014,798.2
+Maharashtra,Amraoti,2014,856.8
+Maharashtra,Aurangabad,2014,582.2
+Maharashtra,Beed,2014,457.4
+Maharashtra,Bhandara,2014,1012.2
+Maharashtra,Buldhana,2014,726.4
+Maharashtra,Chandrapur,2014,924.5
+Maharashtra,Dhule,2014,621.3
+Maharashtra,Gadchiroli,2014,1301.7
+Maharashtra,Gondia,2014,1195.7
+Maharashtra,Jalgaon,2014,749.1
+Maharashtra,Jalna,2014,489.4
+Maharashtra,Kolhapur,2014,1692.4
+Maharashtra,Latur,2014,598.7
+Maharashtra,Mumbai City,2014,2223.8
+Maharashtra,Mumbai Suburban,2014,2330.5
+Maharashtra,Nagpur,2014,867.7
+Maharashtra,Nanded,2014,554.9
+Maharashtra,Nandurbar,2014,612.2
+Maharashtra,Nashik,2014,1073.5
+Maharashtra,Osmanabad,2014,622.4
+Maharashtra,Parbhani,2014,567.8
+Maharashtra,Pune,2014,1007.3
+Maharashtra,Raigad,2014,2957.5
+Maharashtra,Ratnagiri,2014,3034.5
+Maharashtra,Sangli,2014,772.3
+Maharashtra,Satara,2014,1002.6
+Maharashtra,Solapur,2014,547
+Maharashtra,Sindhudurg,2014,3121.1
+Maharashtra,Thane,2014,2472.3
+Maharashtra,Wardha,2014,857.2
+Maharashtra,Washim,2014,702.2
+Maharashtra,Yavatmal,2014,763.6
+Maharashtra,AHMEDNAGAR,2015,473.2
+Maharashtra,AKOLA,2015,834.2
+Maharashtra,AMRAOTI,2015,920.5
+Maharashtra,AURANGABAD,2015,597
+Maharashtra,BEED,2015,403.4
+Maharashtra,BHANDARA,2015,1169.2
+Maharashtra,BULDHANA,2015,693.9
+Maharashtra,CHANDRAPUR,2015,1191.8
+Maharashtra,GADCHIROLI,2015,1189.9
+Maharashtra,GONDIA,2015,1286.3
+Maharashtra,HINGOLI,2015,689.9
+Maharashtra,JALGAON,2015,494.8
+Maharashtra,JALNA,2015,546.5
+Maharashtra,KOLHAPUR,2015,971.9
+Maharashtra,LATUR,2015,499.3
+Maharashtra,MUMBAI CITY,2015,1697
+Maharashtra,MUMBAI SUBURBAN,2015,1869.1
+Maharashtra,NAGPUR,2015,1121.8
+Maharashtra,NANDED,2015,633.2
+Maharashtra,NASHIK,2015,838.7
+Maharashtra,OSMANABAD,2015,476.6
+Maharashtra,PARBHANI,2015,451.6
+Maharashtra,PUNE,2015,804
+Maharashtra,RAIGAD,2015,2244.4
+Maharashtra,RATNAGIRI,2015,2354
+Maharashtra,SANGLI,2015,480.8
+Maharashtra,SATARA,2015,649.2
+Maharashtra,Solapur,2015,351.6
+Maharashtra,SINDHUDURG,2015,2283.5
+Maharashtra,THANE,2015,1827.8
+Maharashtra,WARDHA,2015,991.8
+Maharashtra,WASHIM,2015,799.5
+Maharashtra,Yavatmal,2015,779.3
+Maharashtra,AHMEDNAGAR,2016,642.4
+Maharashtra,AKOLA,2016,852.7
+Maharashtra,AMRAOTI,2016,1023.4
+Maharashtra,AURANGABAD,2016,655.1
+Maharashtra,BHANDARA,2016,1022.5
+Maharashtra,BULDHANA,2016,801.7
+Maharashtra,CHANDRAPUR,2016,1557.4
+Maharashtra,GADCHIROLI,2016,1777.2
+Maharashtra,GONDIA,2016,1383.5
+Maharashtra,JALGAON,2016,705.2
+Maharashtra,JALNA,2016,864.8
+Maharashtra,KOLHAPUR,2016,1667.7
+Maharashtra,LATUR,2016,1201.3
+Maharashtra,MUMBAI CITY,2016,2578.1
+Maharashtra,MUMBAI SUBURBAN,2016,2983.2
+Maharashtra,NAGPUR,2016,908
+Maharashtra,NANDED,2016,1164.2
+Maharashtra,NASHIK,2016,1225.5
+Maharashtra,OSMANABAD,2016,898.3
+Maharashtra,PALGHAR,2016,3133
+Maharashtra,PARBHANI,2016,1019.4
+Maharashtra,PUNE,2016,1214.8
+Maharashtra,RAIGAD,2016,4007.8
+Maharashtra,RATNAGIRI,2016,4534.8
+Maharashtra,SANGLI,2016,638.5
+Maharashtra,SATARA,2016,1072.3
+Maharashtra,Solapur,2016,609.1
+Maharashtra,SINDHUDURG,2016,3565.8
+Maharashtra,WARDHA,2016,1071.7
+Maharashtra,WASHIM,2016,903.5
+Maharashtra,Yavatmal,2016,977.4
+Maharashtra,AHMEDNAGAR,2018,366.2
+Maharashtra,AKOLA,2018,719.2
+Maharashtra,AMRAOTI,2018,675.3
+Maharashtra,AURANGABAD,2018,418.1
+Maharashtra,BHANDARA,2018,1070
+Maharashtra,BULDHANA,2018,491.4
+Maharashtra,CHANDRAPUR,2018,1153.7
+Maharashtra,GADCHIROLI,2018,1355.8
+Maharashtra,GONDIA,2018,1191.5
+Maharashtra,JALGAON,2018,520.4
+Maharashtra,JALNA,2018,450.8
+Maharashtra,KOLHAPUR,2018,1834.9
+Maharashtra,LATUR,2018,615
+Maharashtra,MUMBAI CITY,2018,1799.9
+Maharashtra,MUMBAI SUBURBAN,2018,2243.4
+Maharashtra,NAGPUR,2018,1058.3
+Maharashtra,NANDED,2018,887
+Maharashtra,NASHIK,2018,915.7
+Maharashtra,OSMANABAD,2018,572.1
+Maharashtra,PALGHAR,2018,2398.3
+Maharashtra,PARBHANI,2018,623.2
+Maharashtra,PUNE,2018,1066.4
+Maharashtra,RAIGAD,2018,3173.4
+Maharashtra,RATNAGIRI,2018,3383.5
+Maharashtra,SANGLI,2018,457.4
+Maharashtra,SATARA,2018,874
+Maharashtra,Solapur,2018,348.3
+Maharashtra,SINDHUDURG,2018,3176.9
+Maharashtra,WARDHA,2018,758.9
+Maharashtra,WASHIM,2018,856.1
+Maharashtra,Yavatmal,2018,744.2
+Maharashtra,AHMEDNAGAR,2019,–
+Maharashtra,AKOLA,2019,911.9
+Maharashtra,AMRAOTI,2019,947.5
+Maharashtra,AURANGABAD,2019,823.2
+Maharashtra,BEED,2019,747.2
+Maharashtra,BHANDARA,2019,1302.4
+Maharashtra,BULDHANA,2019,794.7
+Maharashtra,CHANDRAPUR,2019,1386.4
+Maharashtra,DHULE,2019,–
+Maharashtra,GADCHIROLI,2019,1985.9
+Maharashtra,GONDIA,2019,1276.2
+Maharashtra,HINGOLI,2019,–
+Maharashtra,JALGAON,2019,1063.3
+Maharashtra,JALNA,2019,836.7
+Maharashtra,KOLHAPUR,2019,3235.2
+Maharashtra,LATUR,2019,802.6
+Maharashtra,MUMBAI CITY,2019,2853.5
+Maharashtra,MUMBAI SUBURBAN,2019,3855.8
+Maharashtra,NAGPUR,2019,1243.6
+Maharashtra,NANDED,2019,1040.7
+Maharashtra,NANDURBAR,2019,–
+Maharashtra,NASHIK,2019,1736.3
+Maharashtra,OSMANABAD,2019,773.5
+Maharashtra,PALGHAR,2019,4019.7
+Maharashtra,PARBHANI,2019,950.1
+Maharashtra,PUNE,2019,2052.9
+Maharashtra,RAIGAD,2019,5182.2
+Maharashtra,RATNAGIRI,2019,4920.6
+Maharashtra,SANGLI,2019,938.9
+Maharashtra,SATARA,2019,1679.4
+Maharashtra,Solapur,2019,607.2
+Maharashtra,SINDHUDURG,2019,4737
+Maharashtra,THANE,2019,–
+Maharashtra,WARDHA,2019,1043
+Maharashtra,WASHIM,2019,763.6
+Maharashtra,Yavatmal,2019,609.6
+Maharashtra,AHMEDNAGAR,2017,794.4
+Maharashtra,AKOLA,2017,634.7
+Maharashtra,AMRAOTI,2017,616.9
+Maharashtra,AURANGABAD,2017,658.7
+Maharashtra,BEED,2017,770.6
+Maharashtra,BHANDARA,2017,902.1
+Maharashtra,BULDHANA,2017,715.4
+Maharashtra,CHANDRAPUR,2017,857.5
+Maharashtra,DHULE,2017,602.9
+Maharashtra,GADCHIROLI,2017,1103.6
+Maharashtra,GONDIA,2017,856.2
+Maharashtra,HINGOLI,2017,687.2
+Maharashtra,JALGAON,2017,611.6
+Maharashtra,JALNA,2017,685
+Maharashtra,KOLHAPUR,2017,1727.1
+Maharashtra,LATUR,2017,874.2
+Maharashtra,MUMBAI CITY,2017,2454.2
+Maharashtra,MUMBAI SUBURBAN,2017,3109.2
+Maharashtra,NAGPUR,2017,950.5
+Maharashtra,NANDED,2017,711.8
+Maharashtra,NANDURBAR,2017,796.7
+Maharashtra,NASHIK,2017,1347.6
+Maharashtra,OSMANABAD,2017,980.3
+Maharashtra,PALGHAR,2017,3205.9
+Maharashtra,PARBHANI,2017,691.3
+Maharashtra,PUNE,2017,1458.1
+Maharashtra,RAIGAD,2017,3862.5
+Maharashtra,RATNAGIRI,2017,3695.6
+Maharashtra,SANGLI,2017,614.8
+Maharashtra,SATARA,2017,1015.6
+Maharashtra,Solapur,2017,764.4
+Maharashtra,SINDHUDURG,2017,3202.8
+Maharashtra,THANE,2017,3450.2
+Maharashtra,WARDHA,2017,812.9
+Maharashtra,WASHIM,2017,678.2
+Maharashtra,Yavatmal,2017,618.8
+Maharashtra,Mumbai City,2020,3444.1
+Maharashtra,Mumbai Suburban,2020,3835.3
+Maharashtra,Palghar,2020,2675.8
+Maharashtra,Raigad,2020,3884.7
+Maharashtra,Ratnagiri,2020,4293.1
+Maharashtra,Sindhudurg,2020,4933
+Maharashtra,Thane,2020,3028
+Maharashtra,Ahmednagar,2020,—
+Maharashtra,Dhule,2020,—
+Maharashtra,Jalgaon,2020,818.8
+Maharashtra,Kolhapur,2020,2449.6
+Maharashtra,Nashik,2020,1202.9
+Maharashtra,Pune,2020,1481
+Maharashtra,Sangli,2020,1001.1
+Maharashtra,Satara,2020,1134.9
+Maharashtra,Solapur,2020,877.1
+Maharashtra,Aurangabad,2020,1065.2
+Maharashtra,Beed,2020,977.7
+Maharashtra,Hingoli,2020,—
+Maharashtra,Jalna,2020,931.3
+Maharashtra,Latur,2020,—
+Maharashtra,Nanded,2020,986.2
+Maharashtra,Osmanabad,2020,1069.1
+Maharashtra,Parbhani,2020,1042.6
+Maharashtra,Akola,2020,546
+Maharashtra,Amravati,2020,773.7
+Maharashtra,Bhandara,2020,1268.5
+Maharashtra,Buldhana,2020,750.3
+Maharashtra,Chandrapur,2020,1056.9
+Maharashtra,Gadchiroli,2020,1279.3
+Maharashtra,Gondia,2020,1315.2
+Maharashtra,Nagpur,2020,1143.8
+Maharashtra,Wardha,2020,941.9
+Maharashtra,Washim,2020,1023.8
+Maharashtra,Yavatmal,2020,724.1
+Maharashtra,Ahmednagar,2021,832.6
+Maharashtra,Akola,2021,809.4
+Maharashtra,Amravati,2021,930.5
+Maharashtra,Aurangabad,2021,1132.3
+Maharashtra,Beed,2021,1115.1
+Maharashtra,Bhandara,2021,1203.5
+Maharashtra,Buldhana,2021,840.9
+Maharashtra,Chandrapur,2021,1259.3
+Maharashtra,Dhule,2021,953.2
+Maharashtra,Gadchiroli,2021,1214.1
+Maharashtra,Gondia,2021,1265.9
+Maharashtra,Hingoli,2021,947.6
+Maharashtra,Jalgaon,2021,972.7
+Maharashtra,Jalna,2021,1219.8
+Maharashtra,Kolhapur,2021,2518.5
+Maharashtra,Latur,2021,1075.1
+Maharashtra,Mumbai City,2021,2463.7
+Maharashtra,Mumbai Suburban,2021,3541.6
+Maharashtra,Nagpur,2021,1165.2
+Maharashtra,Nanded,2021,1216.7
+Maharashtra,Nandurbar,2021,904.4
+Maharashtra,Nashik,2021,1332.9
+Maharashtra,Osmanabad,2021,1099.6
+Maharashtra,Palghar,2021,3154.7
+Maharashtra,Parbhani,2021,1411.6
+Maharashtra,Pune,2021,1200.8
+Maharashtra,Raigad,2021,3937.1
+Maharashtra,Ratnagiri,2021,4683
+Maharashtra,Sangli,2021,735.1
+Maharashtra,Satara,2021,1386.3
+Maharashtra,Sindhudurg,2021,4654.5
+Maharashtra,Solapur,2021,865.7
+Maharashtra,Thane,2021,3287.7
+Maharashtra,Wardha,2021,1069.7
+Maharashtra,Washim,2021,1162.3
+Maharashtra,Yavatmal (Yavatmal),2021,1117.9
+Maharashtra,Ahmednagar,2022,791.9
+Maharashtra,Akola,2022,755.5
+Maharashtra,Amravati,2022,1058.9
+Maharashtra,Aurangabad,2022,900
+Maharashtra,Beed,2022,836.8
+Maharashtra,Bhandara,2022,1595.7
+Maharashtra,Buldhana,2022,761.2
+Maharashtra,Chandrapur,2022,1497.1
+Maharashtra,Dhule,2022,834.2
+Maharashtra,Gadchiroli,2022,1948.5
+Maharashtra,Gondia,2022,1754.9
+Maharashtra,Hingoli,2022,769.7
+Maharashtra,Jalgaon,2022,790.3
+Maharashtra,Jalna,2022,757.3
+Maharashtra,Kolhapur,2022,2339.5
+Maharashtra,Latur,2022,989.7
+Maharashtra,Mumbai City,2022,2014.1
+Maharashtra,Mumbai Suburban,2022,2889.6
+Maharashtra,Nagpur,2022,1583.7
+Maharashtra,Nanded,2022,1245.7
+Maharashtra,Nandurbar,2022,1028.8
+Maharashtra,Nashik,2022,1560.3
+Maharashtra,Osmanabad,2022,944.6
+Maharashtra,Palghar,2022,3147.4
+Maharashtra,Parbhani,2022,882
+Maharashtra,Pune,2022,1443.6
+Maharashtra,Raigad,2022,3422.2
+Maharashtra,Ratnagiri,2022,3522.6
+Maharashtra,Sangli,2022,617.3
+Maharashtra,Satara,2022,1289.9
+Maharashtra,Sindhudurg,2022,3456.6
+Maharashtra,Solapur,2022,682.3
+Maharashtra,Thane,2022,3230.3
+Maharashtra,Wardha,2022,1410.7
+Maharashtra,Washim,2022,939.1
+Maharashtra,Yavatmal,2022,1218.7
+Maharashtra,Mumbai City,2023,2068.1
+Maharashtra,Mumbai Suburban,2023,3032.7
+Maharashtra,Palghar,2023,2803.5
+Maharashtra,Raigad,2023,3651
+Maharashtra,Ratnagiri,2023,3303.8
+Maharashtra,Sindhudurg,2023,3296.3
+Maharashtra,Thane,2023,3159.6
+Maharashtra,Ahmednagar,2023,474
+Maharashtra,Dhule,2023,588.4
+Maharashtra,Jalgaon,2023,763.5
+Maharashtra,Kolhapur,2023,1519.4
+Maharashtra,Nandurbar,2023,899.5
+Maharashtra,Nashik,2023,987.9
+Maharashtra,Pune,2023,991.8
+Maharashtra,Sangli,2023,363.2
+Maharashtra,Satara,2023,639.6
+Maharashtra,Solapur,2023,412.9
+Maharashtra,Beed,2023,497
+Maharashtra,Chh. Sambhajinagar,2023,663.3
+Maharashtra,Dharashiv,2023,517.4
+Maharashtra,Hingoli,2023,621.8
+Maharashtra,Jalna,2023,447.4
+Maharashtra,Latur,2023,832.1
+Maharashtra,Nanded,2023,1020.1
+Maharashtra,Parbhani,2023,735.8
+Maharashtra,Akola,2023,666.6
+Maharashtra,Amravati,2023,769
+Maharashtra,Bhandara,2023,1322.8
+Maharashtra,Buldhana,2023,769
+Maharashtra,Chandrapur,2023,1271.6
+Maharashtra,Gadchiroli,2023,1493.1
+Maharashtra,Gondia,2023,1315.3
+Maharashtra,Nagpur,2023,1174.8
+Maharashtra,Wardha,2023,983.5
+Maharashtra,Washim,2023,944.3
+Maharashtra,Yavatmal,2023,1176.9
+Tamil Nadu,Ariyalur,2012,669
+Tamil Nadu,Chennai,2012,932.4
+Tamil Nadu,Coimbatore,2012,559.5
+Tamil Nadu,Cuddalore,2012,882.8
+Tamil Nadu,Dharmapuri,2012,720.1
+Tamil Nadu,Dindigul,2012,636.4
+Tamil Nadu,Erode,2012,544.7
+Tamil Nadu,Kanchipuram,2012,902.6
+Tamil Nadu,Kanniyakumari,2012,810.8
+Tamil Nadu,Karur,2012,485.1
+Tamil Nadu,Krishnagiri,2012,695.1
+Tamil Nadu,Madurai,2012,548.4
+Tamil Nadu,Nagapattinam,2012,1040.1
+Tamil Nadu,Namakkal,2012,513.8
+Tamil Nadu,The Nilgiris,2012,1446.6
+Tamil Nadu,Perambalur,2012,464
+Tamil Nadu,Pudukottai,2012,624.5
+Tamil Nadu,Ramanathapuram,2012,605.7
+Tamil Nadu,Salem,2012,820.8
+Tamil Nadu,Sivaganga,2012,583.5
+Tamil Nadu,Thanjavur,2012,713.4
+Tamil Nadu,Theni,2012,579.7
+Tamil Nadu,Tirunelveli,2012,737.2
+Tamil Nadu,Tirupur,2012,354.2
+Tamil Nadu,Tiruvallur,2012,1059.8
+Tamil Nadu,Tiruvannamalai,2012,1043.7
+Tamil Nadu,Tiruvarur,2012,936.7
+Tamil Nadu,Tiruchirappalli,2012,490.6
+Tamil Nadu,Thoothukudi,2012,591.2
+Tamil Nadu,Vellore,2012,772.3
+Tamil Nadu,Viluppuram,2012,962
+Tamil Nadu,Virudhunagar,2012,485.1
+Tamil Nadu,Ariyalur,2013,667.8
+Tamil Nadu,Chennai,2013,1109.2
+Tamil Nadu,Coimbatore,2013,898.3
+Tamil Nadu,Cuddalore,2013,977.7
+Tamil Nadu,Dharmapuri,2013,801.4
+Tamil Nadu,Dindigul,2013,531.3
+Tamil Nadu,Erode,2013,558
+Tamil Nadu,Kanchipuram,2013,905.3
+Tamil Nadu,Kanniyakumari,2013,1201.4
+Tamil Nadu,Karur,2013,460.7
+Tamil Nadu,Krishnagiri,2013,766
+Tamil Nadu,Madurai,2013,610.2
+Tamil Nadu,Nagapattinam,2013,1029.9
+Tamil Nadu,Namakkal,2013,622.4
+Tamil Nadu,The Nilgiris,2013,1534.2
+Tamil Nadu,Perambalur,2013,725.9
+Tamil Nadu,Pudukkottai,2013,613.8
+Tamil Nadu,Ramanathapuram,2013,579.9
+Tamil Nadu,Salem,2013,830.9
+Tamil Nadu,Sivaganga,2013,724.8
+Tamil Nadu,Thanjavur,2013,715.7
+Tamil Nadu,Theni,2013,850.3
+Tamil Nadu,Tirunelveli,2013,918.4
+Tamil Nadu,Tiruppur,2013,277.7
+Tamil Nadu,Tiruvallur,2013,1067.2
+Tamil Nadu,Tiruvannamalai,2013,813.1
+Tamil Nadu,Tiruvarur,2013,918.4
+Tamil Nadu,Thoothukudi,2013,410.8
+Tamil Nadu,Tiruchirappalli,2013,522.9
+Tamil Nadu,Vellore,2013,792.6
+Tamil Nadu,Viluppuram,2013,790.5
+Tamil Nadu,Virudhunagar,2013,617.5
+Tamil Nadu,Ariyalur,2014,699.1
+Tamil Nadu,Chennai,2014,1286.6
+Tamil Nadu,Coimbatore,2014,1221.9
+Tamil Nadu,Cuddalore,2014,1217.9
+Tamil Nadu,Dharmapuri,2014,765.7
+Tamil Nadu,Dindigul,2014,994.4
+Tamil Nadu,Erode,2014,762.9
+Tamil Nadu,Kanchipuram,2014,907.8
+Tamil Nadu,Kanniyakumari,2014,1316.2
+Tamil Nadu,Karur,2014,511.3
+Tamil Nadu,Krishnagiri,2014,757.6
+Tamil Nadu,Madurai,2014,744.2
+Tamil Nadu,Nagapattinam,2014,1415
+Tamil Nadu,Namakkal,2014,589.5
+Tamil Nadu,The Nilgiris,2014,1957.1
+Tamil Nadu,Perambalur,2014,811.8
+Tamil Nadu,Pudukkottai,2014,794.8
+Tamil Nadu,Ramanathapuram,2014,935.7
+Tamil Nadu,Salem,2014,857.7
+Tamil Nadu,Sivaganga,2014,964.3
+Tamil Nadu,Thanjavur,2014,910.6
+Tamil Nadu,Theni,2014,938.8
+Tamil Nadu,Tirunelveli,2014,1350.8
+Tamil Nadu,Tiruppur,2014,726.2
+Tamil Nadu,Tiruvallur,2014,938
+Tamil Nadu,Tiruvannamalai,2014,799.3
+Tamil Nadu,Tiruvarur,2014,1200.4
+Tamil Nadu,Thoothukudi,2014,828.3
+Tamil Nadu,Tiruchirappalli,2014,535.9
+Tamil Nadu,Vellore,2014,685.7
+Tamil Nadu,Viluppuram,2014,963.2
+Tamil Nadu,Virudhunagar,2014,648.6
+Tamil Nadu,ARIYALUR,2015,1058.8
+Tamil Nadu,CHENNAI,2015,2057.6
+Tamil Nadu,COIMBATORE,2015,992.9
+Tamil Nadu,CUDDALORE,2015,1705.7
+Tamil Nadu,DHARMAPURI,2015,1067.7
+Tamil Nadu,DINDIGUL,2015,1119.4
+Tamil Nadu,ERODE,2015,854.4
+Tamil Nadu,Kanchipuram,2015,2256.6
+Tamil Nadu,Kanniyakumari,2015,1814.3
+Tamil Nadu,KARUR,2015,784.1
+Tamil Nadu,KRISHNAGIRI,2015,1049.8
+Tamil Nadu,MADURAI,2015,1002.3
+Tamil Nadu,NAGAPATTINAM,2015,1747.6
+Tamil Nadu,NAMAKKAL,2015,819.4
+Tamil Nadu,The Nilgiris,2015,1720.8
+Tamil Nadu,PERAMBALUR,2015,1097.9
+Tamil Nadu,PUDUKKOTTAI,2015,1045.5
+Tamil Nadu,RAMANATHAPURAM,2015,1018.7
+Tamil Nadu,SALEM,2015,1135.4
+Tamil Nadu,SIVAGANGA,2015,1117.5
+Tamil Nadu,THANJAVUR,2015,1103.9
+Tamil Nadu,THENI,2015,1172.7
+Tamil Nadu,TIRUNELVELI,2015,1547.7
+Tamil Nadu,TIRUPUR,2015,874.2
+Tamil Nadu,TIRUVALLUR,2015,2019.2
+Tamil Nadu,TIRUVANNAMALAI,2015,1247.3
+Tamil Nadu,TIRUVARUR,2015,1517.2
+Tamil Nadu,TOOTHUKUDI,2015,877
+Tamil Nadu,Tiruchirappalli,2015,864.4
+Tamil Nadu,VELLORE,2015,1359.3
+Tamil Nadu,VILUPPURAM,2015,1373.5
+Tamil Nadu,VIRUDHUNAGAR,2015,879.6
+Tamil Nadu,CHENNAI,2016,1036.6
+Tamil Nadu,COIMBATORE,2016,505.5
+Tamil Nadu,CUDDALORE,2016,574.6
+Tamil Nadu,DHARMAPURI,2016,463.2
+Tamil Nadu,DINDIGUL,2016,502.3
+Tamil Nadu,ERODE,2016,309
+Tamil Nadu,Kanchipuram,2016,992.5
+Tamil Nadu,Kanniyakumari,2016,793.5
+Tamil Nadu,KARUR,2016,328.7
+Tamil Nadu,KRISHNAGIRI,2016,597.3
+Tamil Nadu,MADURAI,2016,510.2
+Tamil Nadu,NAGAPATTINAM,2016,661.4
+Tamil Nadu,NAMAKKAL,2016,389.7
+Tamil Nadu,The Nilgiris,2016,889.3
+Tamil Nadu,PERAMBALUR,2016,566.3
+Tamil Nadu,PUDUKKOTTAI,2016,470.8
+Tamil Nadu,RAMANATHAPURAM,2016,388
+Tamil Nadu,SALEM,2016,577.5
+Tamil Nadu,SIVAGANGA,2016,710.9
+Tamil Nadu,THANJAVUR,2016,630.5
+Tamil Nadu,THENI,2016,365.7
+Tamil Nadu,TIRUNELVELI,2016,411.9
+Tamil Nadu,TIRUPPUR,2016,411.3
+Tamil Nadu,TIRUVALLUR,2016,814.3
+Tamil Nadu,TIRUVANNAMALAI,2016,684.6
+Tamil Nadu,TIRUVARUR,2016,645.4
+Tamil Nadu,TOOTHUKUDI,2016,230.4
+Tamil Nadu,Tiruchirappalli,2016,474.6
+Tamil Nadu,VELLORE,2016,680.9
+Tamil Nadu,VILLUPURAM,2016,593.7
+Tamil Nadu,VIRUDHUNAGAR,2016,375.3
+Tamil Nadu,ARIYALUR,2017,1193.1
+Tamil Nadu,CHENNAI,2017,1393.8
+Tamil Nadu,COIMBATORE,2017,873.4
+Tamil Nadu,CUDDALORE,2017,1380.8
+Tamil Nadu,DHARMAPURI,2017,906.3
+Tamil Nadu,DINDIGUL,2017,925.6
+Tamil Nadu,ERODE,2017,776.7
+Tamil Nadu,Kanchipuram,2017,1197.2
+Tamil Nadu,Kanniyakumari,2017,1176.5
+Tamil Nadu,KARUR,2017,715.3
+Tamil Nadu,KRISHNAGIRI,2017,1145.6
+Tamil Nadu,MADURAI,2017,904.5
+Tamil Nadu,NAGAPATTINAM,2017,1628.9
+Tamil Nadu,NAMAKKAL,2017,783.6
+Tamil Nadu,The Nilgiris,2017,1469.2
+Tamil Nadu,PERAMBALUR,2017,1005.4
+Tamil Nadu,PUDUKKOTTAI,2017,724.3
+Tamil Nadu,RAMANATHAPURAM,2017,606.6
+Tamil Nadu,SALEM,2017,1006.6
+Tamil Nadu,SIVAGANGA,2017,967.5
+Tamil Nadu,THANJAVUR,2017,1077
+Tamil Nadu,THENI,2017,816.5
+Tamil Nadu,TIRUNELVELI,2017,1127
+Tamil Nadu,TIRUPPUR,2017,679.8
+Tamil Nadu,TIRUVALLUR,2017,1203.1
+Tamil Nadu,TIRUVANNAMALAI,2017,1251.4
+Tamil Nadu,TIRUVARUR,2017,1247.9
+Tamil Nadu,TOOTHUKUDI,2017,514.5
+Tamil Nadu,Tiruchirappalli,2017,689.9
+Tamil Nadu,VELLORE,2017,1042.5
+Tamil Nadu,VILLUPURAM,2017,1066.9
+Tamil Nadu,VIRUDHUNAGAR,2017,800
+Tamil Nadu,ARIYALUR,2018,814.5
+Tamil Nadu,CHENNAI,2018,754.8
+Tamil Nadu,COIMBATORE,2018,1302
+Tamil Nadu,CUDDALORE,2018,964.9
+Tamil Nadu,DHARMAPURI,2018,468.1
+Tamil Nadu,DINDIGUL,2018,800
+Tamil Nadu,ERODE,2018,772.6
+Tamil Nadu,Kanchipuram,2018,833
+Tamil Nadu,Kanniyakumari,2018,1289.3
+Tamil Nadu,KARUR,2018,468.4
+Tamil Nadu,KRISHNAGIRI,2018,510.5
+Tamil Nadu,MADURAI,2018,734.1
+Tamil Nadu,NAGAPATTINAM,2018,1079.7
+Tamil Nadu,NAMAKKAL,2018,649.3
+Tamil Nadu,The Nilgiris,2018,1699.6
+Tamil Nadu,PERAMBALUR,2018,533.3
+Tamil Nadu,PUDUKKOTTAI,2018,692.3
+Tamil Nadu,RAMANATHAPURAM,2018,649.7
+Tamil Nadu,SALEM,2018,712.8
+Tamil Nadu,SIVAGANGA,2018,932.6
+Tamil Nadu,THANJAVUR,2018,703.7
+Tamil Nadu,THENI,2018,1105.4
+Tamil Nadu,TIRUNELVELI,2018,1137.7
+Tamil Nadu,TIRUPPUR,2018,716.1
+Tamil Nadu,TIRUVALLUR,2018,733.4
+Tamil Nadu,TIRUVANNAMALAI,2018,790.2
+Tamil Nadu,TIRUVARUR,2018,971.7
+Tamil Nadu,TOOTHUKUDI,2018,561.7
+Tamil Nadu,Tiruchirappalli,2018,506.6
+Tamil Nadu,VELLORE,2018,601.3
+Tamil Nadu,VILLUPURAM,2018,727.5
+Tamil Nadu,VIRUDHUNAGAR,2018,759.5
+Tamil Nadu,ARIYALUR,2019,1111.4
+Tamil Nadu,CHENNAI,2019,1227
+Tamil Nadu,COIMBATORE,2019,1272.3
+Tamil Nadu,CUDDALORE,2019,1091.9
+Tamil Nadu,DHARMAPURI,2019,838.4
+Tamil Nadu,DINDIGUL,2019,712.6
+Tamil Nadu,ERODE,2019,664.1
+Tamil Nadu,Kanchipuram,2019,1131.4
+Tamil Nadu,Kanniyakumari,2019,1267.9
+Tamil Nadu,KARUR,2019,524.4
+Tamil Nadu,KRISHNAGIRI,2019,730
+Tamil Nadu,MADURAI,2019,671.9
+Tamil Nadu,NAGAPATTINAM,2019,1456.3
+Tamil Nadu,NAMAKKAL,2019,630.4
+Tamil Nadu,The Nilgiris,2019,2227.3
+Tamil Nadu,PERAMBALUR,2019,747.3
+Tamil Nadu,PUDUKKOTTAI,2019,876.2
+Tamil Nadu,RAMANATHAPURAM,2019,923.2
+Tamil Nadu,SALEM,2019,927.6
+Tamil Nadu,SIVAGANGA,2019,966.5
+Tamil Nadu,THANJAVUR,2019,942.3
+Tamil Nadu,THENI,2019,786
+Tamil Nadu,TIRUNELVELI,2019,1057.6
+Tamil Nadu,TIRUPPUR,2019,488.1
+Tamil Nadu,TIRUVALLUR,2019,1174.2
+Tamil Nadu,TIRUVANNAMALAI,2019,1071.9
+Tamil Nadu,TIRUVARUR,2019,1128.5
+Tamil Nadu,TOOTHUKUDI,2019,669.1
+Tamil Nadu,Tiruchirappalli,2019,635
+Tamil Nadu,VELLORE,2019,827.1
+Tamil Nadu,VILLUPURAM,2019,906.2
+Tamil Nadu,VIRUDHUNAGAR,2019,713.7
+Tamil Nadu,Ariyalur,2020,1063.9
+Tamil Nadu,Chengalpattu,2020,1306.6
+Tamil Nadu,Chennai,2020,1599.5
+Tamil Nadu,Coimbatore,2020,1585.7
+Tamil Nadu,Cuddalore,2020,1314.2
+Tamil Nadu,Dharmapuri,2020,918.4
+Tamil Nadu,Dindigul,2020,959
+Tamil Nadu,Erode,2020,629.7
+Tamil Nadu,Kallakurichi,2020,903
+Tamil Nadu,Kanchipuram,2020,1234.5
+Tamil Nadu,Kanniyakumari,2020,1099.5
+Tamil Nadu,Karur,2020,684.5
+Tamil Nadu,Krishnagiri,2020,803.4
+Tamil Nadu,Madurai,2020,925.4
+Tamil Nadu,Nagapattinam,2020,1426.6
+Tamil Nadu,Namakkal,2020,627.7
+Tamil Nadu,The Nilgiris,2020,1885.7
+Tamil Nadu,Perambalur,2020,1118.2
+Tamil Nadu,Pudukkottai,2020,946.6
+Tamil Nadu,Ramanathapuram,2020,858.8
+Tamil Nadu,Ranipet,2020,1100.4
+Tamil Nadu,Salem,2020,966.5
+Tamil Nadu,Sivaganga,2020,1112
+Tamil Nadu,Thanjavur,2020,971.2
+Tamil Nadu,Theni,2020,922.3
+Tamil Nadu,Tenkasi,2020,831.7
+Tamil Nadu,Tirunelveli,2020,728.8
+Tamil Nadu,Tirupattur,2020,1154.7
+Tamil Nadu,Tiruppur,2020,755.1
+Tamil Nadu,Tiruvallur,2020,1230.3
+Tamil Nadu,Tiruvannamalai,2020,1042.8
+Tamil Nadu,Tiruvarur,2020,1303.7
+Tamil Nadu,Toothukudi,2020,568.2
+Tamil Nadu,Tiruchirappalli,2020,797.4
+Tamil Nadu,Vellore,2020,1049.5
+Tamil Nadu,Villupuram,2020,1187.4
+Tamil Nadu,Virudhunagar,2020,860.3
+Tamil Nadu,Ariyalur,2021,1646
+Tamil Nadu,Chengalpattu,2021,1846
+Tamil Nadu,Chennai,2021,2105
+Tamil Nadu,Coimbatore,2021,2116.8
+Tamil Nadu,Cuddalore,2021,2040.4
+Tamil Nadu,Dharmapuri,2021,1027.7
+Tamil Nadu,Dindigul,2021,1240.5
+Tamil Nadu,Erode,2021,1010
+Tamil Nadu,Kallakurichi,2021,1427.5
+Tamil Nadu,Kanchipuram,2021,1698.1
+Tamil Nadu,Kanniyakumari,2021,2240.9
+Tamil Nadu,Karur,2021,919.9
+Tamil Nadu,Krishnagiri,2021,985.4
+Tamil Nadu,Madurai,2021,1095.3
+Tamil Nadu,Mayiladuthurai,2021,1836.3
+Tamil Nadu,Nagapattinam,2021,1932.4
+Tamil Nadu,Namakkal,2021,1022
+Tamil Nadu,The Nilgiris,2021,2258.9
+Tamil Nadu,Perambalur,2021,1563.4
+Tamil Nadu,Pudukkottai,2021,1188.8
+Tamil Nadu,Ramanathapuram,2021,1040.7
+Tamil Nadu,Ranipet,2021,1557.4
+Tamil Nadu,Salem,2021,1167.6
+Tamil Nadu,Sivaganga,2021,1270.8
+Tamil Nadu,Tenkasi,2021,1285.7
+Tamil Nadu,Thanjavur,2021,1580.6
+Tamil Nadu,Theni,2021,1264.3
+Tamil Nadu,Tirunelveli,2021,1569.2
+Tamil Nadu,Tirupattur,2021,1324.5
+Tamil Nadu,Tiruppur,2021,845.1
+Tamil Nadu,Tiruvallur,2021,1809.6
+Tamil Nadu,Tiruvannamalai,2021,1592.5
+Tamil Nadu,Tiruvarur,2021,1796.1
+Tamil Nadu,Toothukudi,2021,930.7
+Tamil Nadu,Tiruchirappalli,2021,1222.7
+Tamil Nadu,Vellore,2021,1433.6
+Tamil Nadu,Villupuram,2021,1935.1
+Tamil Nadu,Virudhunagar,2021,968.5
+Tamil Nadu,Ariyalur,2022,1059.9
+Tamil Nadu,Chengalpattu,2022,1121.9
+Tamil Nadu,Chennai,2022,1447
+Tamil Nadu,Coimbatore,2022,2151.7
+Tamil Nadu,Cuddalore,2022,1332
+Tamil Nadu,Dharmapuri,2022,1165.2
+Tamil Nadu,Dindigul,2022,1303.6
+Tamil Nadu,Erode,2022,1179
+Tamil Nadu,Kallakurichi,2022,816.4
+Tamil Nadu,Kanchipuram,2022,1404.6
+Tamil Nadu,Kanniyakumari,2022,1257.3
+Tamil Nadu,Karur,2022,722.7
+Tamil Nadu,Krishnagiri,2022,1204.7
+Tamil Nadu,Madurai,2022,1118.5
+Tamil Nadu,Mayiladuthurai,2022,1547.3
+Tamil Nadu,Nagapattinam,2022,1334
+Tamil Nadu,Namakkal,2022,1056.7
+Tamil Nadu,The Nilgiris,2022,2741.2
+Tamil Nadu,Perambalur,2022,1043.8
+Tamil Nadu,Pudukkottai,2022,842.6
+Tamil Nadu,Ramanathapuram,2022,697.2
+Tamil Nadu,Ranipet,2022,1252
+Tamil Nadu,Salem,2022,1108
+Tamil Nadu,Sivaganga,2022,1132.2
+Tamil Nadu,Tenkasi,2022,855.2
+Tamil Nadu,Thanjavur,2022,1165
+Tamil Nadu,Theni,2022,1280
+Tamil Nadu,Tirunelveli,2022,793.5
+Tamil Nadu,Tirupattur,2022,1211.8
+Tamil Nadu,Tiruppur,2022,830.5
+Tamil Nadu,Tiruvallur,2022,1346.3
+Tamil Nadu,Tiruvannamalai,2022,1174.4
+Tamil Nadu,Tiruvarur,2022,1326.7
+Tamil Nadu,Toothukudi,2022,579.8
+Tamil Nadu,Tiruchirappalli,2022,854.2
+Tamil Nadu,Vellore,2022,975.9
+Tamil Nadu,Villupuram,2022,1010.1
+Tamil Nadu,Virudhunagar,2022,856
+Tamil Nadu,Ariyalur,2023,706.5
+Tamil Nadu,Chengalpattu,2023,1464
+Tamil Nadu,Chennai,2023,1972.7
+Tamil Nadu,Coimbatore,2023,1483.7
+Tamil Nadu,Cuddalore,2023,1155.2
+Tamil Nadu,Dharmapuri,2023,794.3
+Tamil Nadu,Dindigul,2023,1132.1
+Tamil Nadu,Erode,2023,833.3
+Tamil Nadu,Kallakurichi,2023,783.7
+Tamil Nadu,Kanchipuram,2023,1637.4
+Tamil Nadu,Kanniyakumari,2023,1636.7
+Tamil Nadu,Karur,2023,558.5
+Tamil Nadu,Krishnagiri,2023,729.1
+Tamil Nadu,Madurai,2023,984.1
+Tamil Nadu,Mayiladuthurai,2023,1097.9
+Tamil Nadu,Nagapattinam,2023,1505.8
+Tamil Nadu,Namakkal,2023,724.9
+Tamil Nadu,The Nilgiris,2023,1556.2
+Tamil Nadu,Perambalur,2023,736.5
+Tamil Nadu,Pudukkottai,2023,838.2
+Tamil Nadu,Ramanathapuram,2023,964.9
+Tamil Nadu,Ranipet,2023,1165.5
+Tamil Nadu,Salem,2023,834.4
+Tamil Nadu,Sivaganga,2023,1011.8
+Tamil Nadu,Tenkasi,2023,1243.4
+Tamil Nadu,Thanjavur,2023,920.1
+Tamil Nadu,Theni,2023,1031.1
+Tamil Nadu,Tirunelveli,2023,1744.9
+Tamil Nadu,Tirupattur,2023,808.2
+Tamil Nadu,Tiruppur,2023,570.7
+Tamil Nadu,Tiruvallur,2023,1628.9
+Tamil Nadu,Tiruvannamalai,2023,1161.4
+Tamil Nadu,Tiruvarur,2023,1090.6
+Tamil Nadu,Toothukudi,2023,1009.8
+Tamil Nadu,Tiruchirappalli,2023,645.5
+Tamil Nadu,Vellore,2023,1077.3
+Tamil Nadu,Villupuram,2023,1055.4
+Tamil Nadu,Virudhunagar,2023,1166.8
