@@ -1,4 +1,0 @@
-Model,Accuracy,Acc std,F1,F1 std
-Baseline (mean only),0.68,0.16,0.653,0.176
-Model 2 (mean + CV),0.92,0.098,0.901,0.123
-Model 3 (mean + CV + rain),0.92,0.098,0.901,0.123
