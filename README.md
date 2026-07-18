@@ -12,16 +12,30 @@ This project analyzes district-level yield data across **5 states × 5 crops (20
 - SHAP (feature importance / model interpretability)
 
 ## Methodology
-- **Risk labeling:** Switched from fixed yield thresholds (which produced a skewed 22/2/1 class split) to **quantile-based thresholds (q33/q67)**, achieving a balanced 8/9/8 split across Low/Medium/High risk classes
-- **Model comparison:**
-  | Model | Features | Accuracy |
-  |-------|----------|----------|
-  | M1 | Mean yield only | 68% |
-  | M2 | + Coefficient of Variation (CV) | 92% |
-  | M3 | + CV + rainfall | 92% |
-- **Validation:** 5-fold stratified cross-validation
-- **Interpretability:** SHAP values and Mean Decrease in Impurity (MDI) — both consistently show **CV as the dominant predictive feature**
-- **Advisory layer:** Rule-based recommendations generated from predicted risk categories
+
+**Risk labeling:** Switched from fixed yield thresholds (which produced a skewed 22/2/1 class split) to **quantile-based thresholds (q33/q67)**, achieving a balanced ~32/36/32% split across Low/Medium/High risk classes.
+
+![Risk distribution and yield vs CV](outputs/week5_risk_distribution.png)
+
+The scatter plot on the right illustrates the core insight driving this project: **high mean yield does not imply low risk**. Some high-yield state-crop combinations still show high year-to-year variability (CV), and vice versa — which is why CV, not just average yield, was needed as a risk signal.
+
+**Model comparison:**
+
+| Model | Features | Accuracy |
+|-------|----------|----------|
+| M1 (Baseline) | Mean yield only | 68% |
+| M2 | + Coefficient of Variation (CV) | 92% |
+| M3 | + CV + rainfall | 92% |
+
+![Model comparison](outputs/week5_model_comparison.png)
+
+**Validation:** 5-fold stratified cross-validation
+
+**Interpretability:** SHAP values and Mean Decrease in Impurity (MDI) — both consistently show **CV as the dominant predictive feature**, well ahead of mean yield and soil indicators.
+
+![Feature importance: Random Forest vs SHAP](outputs/week5_shap_importance.png)
+
+**Advisory layer:** Rule-based recommendations generated from predicted risk categories.
 
 ## Key Finding
 Yield variability (CV) is a far stronger predictor of production risk than mean yield alone — incorporating it took model accuracy from 68% to 92%.
