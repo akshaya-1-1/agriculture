@@ -1,48 +1,90 @@
-# AI in Agriculture: Crop Production Risk Prediction
+# Agri AI Project
 
-A machine learning project that classifies crop production risk (Low / Medium / High) across Indian states using yield variability and rainfall data — built as part of academic research at MIT, MAHE.
+Machine Learning-based Decision Support System for Agricultural Crop Selection and Yield Forecasting.
 
-## Overview
-This project analyzes district-level yield data across **5 states × 5 crops (2012–2022)** to predict production risk categories using the **Coefficient of Variation (CV)** of yield as the core risk signal, combined with Random Forest classification.
+## Project Overview
 
-## Tech Stack
+This project focuses on developing a machine learning-based agricultural decision support system using historical crop production, rainfall, and soil health data. The work evolved from a risk-aware crop recommendation model to a forecasting framework that predicts crop suitability while considering climate variability.
+
+## Datasets
+
+- Crop Production Dataset
+- Rainfall Dataset
+- Soil Health Dataset
+
+The datasets are merged to create a unified dataset containing crop, district, state, production, yield, rainfall, and soil-related features.
+
+## Project Structure
+
+```
+.
+├── data/
+│   ├── final/
+│   ├── processed/
+│   └── raw/
+├── outputs/
+├── Week3.ipynb
+├── risk_model_week4.ipynb
+├── WEEK5.ipynb
+├── forecasting model.ipynb
+├── mca_agri_ai.ipynb
+└── README.md
+```
+
+## Notebooks
+
+### Week3.ipynb
+- Exploratory Data Analysis
+- Yield stability analysis
+- Rainfall analysis
+- Statistical insights
+
+### risk_model_week4.ipynb
+- Risk-aware crop recommendation
+- Mean Yield
+- Standard Deviation
+- Coefficient of Variation (CV)
+- Risk categorization
+
+### WEEK5.ipynb
+- Machine learning models
+- Random Forest classification
+- Cross-validation
+- Performance evaluation
+- SHAP feature importance
+
+### forecasting model.ipynb (Latest)
+This notebook contains the latest version of the project.
+
+Key improvements include:
+- Reframing the work as a forecasting model.
+- Sample expansion using rolling-window forecasting.
+- Rainfall incorporated as a climate variability feature.
+- Feature engineering for historical crop performance.
+- Model evaluation using Accuracy, Precision, Recall and F1-score.
+- Future crop suitability forecasting.
+
+## Technologies Used
+
 - Python
-- scikit-learn (Random Forest, cross-validation)
-- pandas, NumPy
-- SHAP (feature importance / model interpretability)
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- SHAP
+- Jupyter Notebook
 
-## Methodology
+## Outputs
 
-**Risk labeling:** Switched from fixed yield thresholds (which produced a skewed 22/2/1 class split) to **quantile-based thresholds (q33/q67)**, achieving a balanced ~32/36/32% split across Low/Medium/High risk classes.
+The `outputs` folder contains:
+- Plots
+- Model evaluation results
+- Advisory tables
+- Performance metrics
 
-![Risk distribution and yield vs CV](outputs/week5_risk_distribution.png)
+## Future Work
 
-The scatter plot on the right illustrates the core insight driving this project: **high mean yield does not imply low risk**. Some high-yield state-crop combinations still show high year-to-year variability (CV), and vice versa — which is why CV, not just average yield, was needed as a risk signal.
-
-**Model comparison:**
-
-| Model | Features | Accuracy |
-|-------|----------|----------|
-| M1 (Baseline) | Mean yield only | 68% |
-| M2 | + Coefficient of Variation (CV) | 92% |
-| M3 | + CV + rainfall | 92% |
-
-![Model comparison](outputs/week5_model_comparison.png)
-
-**Validation:** 5-fold stratified cross-validation
-
-**Interpretability:** SHAP values and Mean Decrease in Impurity (MDI) — both consistently show **CV as the dominant predictive feature**, well ahead of mean yield and soil indicators.
-
-![Feature importance: Random Forest vs SHAP](outputs/week5_shap_importance.png)
-
-**Advisory layer:** Rule-based recommendations generated from predicted risk categories.
-
-## Key Finding
-Yield variability (CV) is a far stronger predictor of production risk than mean yield alone — incorporating it took model accuracy from 68% to 92%.
-
-## Authors
-- Akshaya C. Rao
-- Rashmitha K.
-
-School of Computer Engineering, Manipal Institute of Technology, MAHE
-
+- Weather forecast integration
+- Satellite imagery
+- Deep learning models
+- Web-based farmer advisory system
